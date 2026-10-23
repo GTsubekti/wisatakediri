@@ -1,0 +1,25 @@
+# Temp & cache
+*.pyc
+__pycache__/
+.DS_Store
+Thumbs.db
+
+# Vercel local config (student deploys their own)
+.vercel/
+
+# Raw data drive (not needed for students)
+data-drive/
+
+# Temp scripts
+clean-json-emojis.py
+copy-images.sh
+update-json-paths.py
+verify.py
+final-verify.py
+project-brief.md
+sketsa-layout-final.png
+DESIGN.md
+
+# Env
+.env
+.env.local

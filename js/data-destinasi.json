@@ -1,0 +1,945 @@
+{
+  "categories": [
+    {
+      "id": "religi",
+      "name": "Religi & Spiritual",
+      "color": "#1a5276",
+      "count": 14
+    },
+    {
+      "id": "air",
+      "name": "Sumber Mata Air",
+      "color": "#1a6e8a",
+      "count": 22
+    },
+    {
+      "id": "sejarah",
+      "name": "Sejarah & Budaya",
+      "color": "#2c3e50",
+      "count": 10
+    },
+    {
+      "id": "alam",
+      "name": "Wisata Alam",
+      "color": "#1e6f3f",
+      "count": 2
+    },
+    {
+      "id": "event",
+      "name": "Event & Tradisi",
+      "color": "#6c3483",
+      "count": 10
+    },
+    {
+      "id": "kuliner",
+      "name": "Kuliner Khas",
+      "color": "#7b4c1e",
+      "count": 5
+    }
+  ],
+  "destinations": [
+    {
+      "id": "religi-0",
+      "name": "Makam KH. Chamim Tohari Djazuli (Gus Miek) Lokasi: Jalan Mak",
+      "category": "Religi",
+      "location": "Jalan Makam Auliya, Tambak, Desa Ngadi, Kecamatan Mojo, Kabupaten Kediri, Jawa Timur 64162",
+      "description": "Makam KH. Chamim Tohari Djazuli atau Gus Miek merupakan destinasi wisata religi utama di Kabupaten Kediri yang selalu ramai dikunjungi peziarah dari berbagai daerah. Gus Miek sendiri dikenal luas sebagai ulama kharismatik Nahdlatul Ulama (NU) dan waliyullah yang memiliki metode dakwah unik di kalangan masyarakat marjinal serta pencetus gerakan spiritual Dzikrul Ghofilin dan Jantiko Mantab. Fakta Menarik: Kompleks pemakaman yang terletak di perbukitan ini dikenal sebagai “Makam Auliya Tambak” karena menjadi tempat peristirahatan beberapa ulama besar selain Gus Miek, termasuk makam Nyai Rodliyah",
+      "images": [],
+      "maps_link": "https://www.google.com/maps/search/Makam+KH.+Chamim+Tohari+Djazul+Kediri"
+    },
+    {
+      "id": "religi-1",
+      "name": "Makam Mbah Ageng Mantri Lokasi: Dusun Bolowono, Desa Tiru Lo",
+      "category": "Religi",
+      "location": "Dusun Bolowono, Desa Tiru Lor, Kecamatan Gurah, Kabupaten Kediri, Jawa Timur 64181",
+      "description": "Makam Mbah Ageng Mantri merupakan punden sakral sekaligus situs cagar budaya peninggalan era Majapahit yang terletak di dalam kawasan Desa Wisata Sobo Tiru Lor. Tempat ini menjadi episentrum ziarah andalan desa setempat yang ramai dikunjungi para peziarah luar daerah, khususnya pada momentum malam Jumat Legi. Fakta Menarik: Beliau dipercaya sebagai Rakryan Mantri Agung atau Wakil Patih Mangkubumi Majapahit yang dulu berkedudukan di wilayah Daha (Kediri). Sebagai hadiah atas jasanya, beliau dianugerahi tanah perdikan (otonom) Buluwahana yang kini menjadi Dusun Bolowono, menjadikannya pahlawan p",
+      "images": [],
+      "maps_link": "https://www.google.com/maps/search/Makam+Mbah+Ageng+Mantri+Lokasi+Kediri"
+    },
+    {
+      "id": "religi-2",
+      "name": "Marwah Edukasi Religi Lokasi: Jalan Gading, Dusun Tambak Wir",
+      "category": "Religi",
+      "location": "Jalan Gading, Dusun Tambak Wirang, Desa Sidowarek, Kecamatan Plemahan, Kabupaten Kediri, Jawa Timur ",
+      "description": "Marwah Edukasi Religi merupakan wisata edukasi yang menghadirkan miniatur tempat-tempat krusial dalam rangkaian ibadah haji dan umrah. Pengunjung dapat mengenal langsung replika fisik Ka'bah, sudut Mina, bukit Arafah, Muzdalifah, jalur Safa-Marwah, hingga replika Gua Hira dalam satu kawasan terpadu. Fakta Menarik: Tempat ini dirancang sebagai sarana mengenalkan tata cara dan suasana ibadah haji kepada pengunjung, terutama anak-anak. Kawasannya juga dilengkapi kolam renang dan restoran sehingga konsepnya memadukan edukasi religi dengan wisata keluarga. Fasilitas: • Kolam renang • Restoran & Kaf",
+      "images": [
+        "assets/images/religi/Marwah Edukasi Religi/Screenshot_2026-09-13-13-26-02-16.jpg",
+        "assets/images/religi/Marwah Edukasi Religi/Screenshot_2026-09-13-13-26-27-89.jpg",
+        "assets/images/religi/Marwah Edukasi Religi/Screenshot_2026-09-13-13-26-43-26.jpg",
+        "assets/images/religi/Marwah Edukasi Religi/Screenshot_2026-09-13-13-27-06-52.jpg",
+        "assets/images/religi/Marwah Edukasi Religi/Screenshot_2026-09-13-13-27-19-79.jpg",
+        "assets/images/religi/Marwah Edukasi Religi/Screenshot_2026-09-13-13-27-31-14.jpg",
+        "assets/images/religi/Marwah Edukasi Religi/Screenshot_2026-09-13-13-27-42-60.jpg",
+        "assets/images/religi/Marwah Edukasi Religi/Screenshot_2026-09-13-13-29-11-59.jpg"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Marwah+Edukasi+Religi+Lokasi:++Kediri"
+    },
+    {
+      "id": "religi-3",
+      "name": "Masjid At-Taqwa Kanigoro Lokasi: Jalan Balai Desa Kanigoro, ",
+      "category": "Religi",
+      "location": "Jalan Balai Desa Kanigoro, Dusun Jagalan, Desa Kanigoro, Kecamatan Kras, Kabupaten Kediri, Jawa Timu",
+      "description": "Masjid bersejarah di Kediri yang dibangun pada tahun 1937 dan menjadi saksi bisu perjuangan umat Islam melawan ancaman ideologi komunis di Jawa Timur. Fakta Menarik: Menjadi lokasi utama Tragedi Peristiwa Kanigoro 13 Januari 1965, yaitu momen penyerbuan dan penginjakan kitab suci Al-Qur’an oleh ribuan massa simpatisan PKI saat kader Pelajar Islam Indonesia (PII) sedang melakukan pelatihan subuh. Fasilitas: • Masjid • Tempat wudu • Toilet Jam operasional: Setiap hari / 24 jam Harga tiket: Gratis Parkir: Tersedia Akses menuju lokasi: Cukup memarkirkan kendaraan di halaman masjid, dan bisa langsu",
+      "images": [],
+      "maps_link": "https://www.google.com/maps/search/Masjid+At-Taqwa+Kanigoro+Lokas+Kediri"
+    },
+    {
+      "id": "religi-4",
+      "name": "Masjid Tua Baiturrahman Lokasi: Tambakrejo Kidul, Tambakrejo",
+      "category": "Religi",
+      "location": "Tambakrejo Kidul, Tambakrejo, Kecamatan Gurah, Kabupaten Kediri, Jawa Timur 64181",
+      "description": "Masjid Tua Baiturrahman merupakan masjid bersejarah di Desa Tambakrejo yang didirikan sekitar tahun 1830-an oleh Kiai Abdurrahman, seorang mantan prajurit Pangeran Diponegoro yang mengungsi pasca-Perang Jawa. Bangunan ini menjadi saksi bisu perkembangan Islam dan pusat penyebaran Tarekat Naqsyabandiyah di wilayah Gurah, di mana kawasan ini dahulunya juga pernah berfungsi sebagai pondok pesantren sebelum mengalami renovasi besar pada tahun 1925. Hingga saat ini, struktur masjid kuno tersebut masih berdiri kokoh dan aktif digunakan oleh masyarakat setempat sebagai pusat kegiatan ibadah serta kea",
+      "images": [
+        "assets/images/religi/Masjid Tua Baiturrahman/Screenshot_2026-09-15-17-21-44-72.jpg",
+        "assets/images/religi/Masjid Tua Baiturrahman/Screenshot_2026-09-15-17-22-05-20.jpg",
+        "assets/images/religi/Masjid Tua Baiturrahman/Screenshot_2026-09-15-17-22-21-60.jpg",
+        "assets/images/religi/Masjid Tua Baiturrahman/Screenshot_2026-09-15-17-22-40-41.jpg",
+        "assets/images/religi/Masjid Tua Baiturrahman/Screenshot_2026-09-15-17-22-56-78.jpg",
+        "assets/images/religi/Masjid Tua Baiturrahman/Screenshot_2026-09-15-17-23-50-06.jpg",
+        "assets/images/religi/Masjid Tua Baiturrahman/Screenshot_2026-09-15-17-24-39-68.jpg",
+        "assets/images/religi/Masjid Tua Baiturrahman/Screenshot_2026-09-15-17-25-24-68.jpg"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Masjid+Tua+Baiturrahman+Lokasi+Kediri"
+    },
+    {
+      "id": "religi-5",
+      "name": "Makam Auliya Syekh Nur Muhammad Lokasi: Dusun Kolak Utara, D",
+      "category": "Religi",
+      "location": "Dusun Kolak Utara, Desa Wonorejo, Kecamatan Ngadiluwih, Kabupaten Kediri, Jawa Timur 64171",
+      "description": "Situs ziarah religi lokal berupa makam seorang ulama sepuh tersembunyi yang menjadi salah satu titik spiritual penting bagi masyarakat di kawasan Kolak Utara. Fakta Menarik: Keberadaannya sangat dirahasiakan di internet dan minim publikasi digital karena pihak keluarga/pengelola sengaja menjaga kesucian lokasi agar tetap menjadi area ziarah yang tenang, sejuk, dan terhindar dari komersialisasi massal. Fasilitas:  • Cungkup makam untuk berdoa • Tempat wudhu Jam operasional: Setiap hari / 24 jam Harga tiket: Gratis Parkir: Terbatas Akses menuju lokasi: Cukup berjalan kaki dari area parkir Catata",
+      "images": [
+        "assets/images/religi/Makam Auliya Syekh Nur Muhammad/Screenshot_2026-09-17-07-39-14-09.jpg"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Makam+Auliya+Syekh+Nur+Muhamma+Kediri"
+    },
+    {
+      "id": "religi-6",
+      "name": "Makam KH. Chamim Tohari Djazuli (Gus Miek) Lokasi: Jalan Mak",
+      "category": "Religi",
+      "location": "Jalan Makam Auliya, Tambak, Desa Ngadi, Kecamatan Mojo, Kabupaten Kediri, Jawa Timur 64162",
+      "description": "Makam KH. Chamim Tohari Djazuli atau Gus Miek merupakan destinasi wisata religi utama di Kabupaten Kediri yang selalu ramai dikunjungi peziarah dari berbagai daerah. Gus Miek sendiri dikenal luas sebagai ulama kharismatik Nahdlatul Ulama (NU) dan waliyullah yang memiliki metode dakwah unik di kalangan masyarakat marjinal serta pencetus gerakan spiritual Dzikrul Ghofilin dan Jantiko Mantab. Fakta Menarik: Kompleks pemakaman yang terletak di perbukitan ini dikenal sebagai “Makam Auliya Tambak” karena menjadi tempat peristirahatan beberapa ulama besar selain Gus Miek, termasuk makam Nyai Rodliyah",
+      "images": [
+        "assets/images/religi/Makam KH. Chamim Tohari Djazuli (Gus Miek)/Screenshot_2026-09-13-13-15-52-13.jpg",
+        "assets/images/religi/Makam KH. Chamim Tohari Djazuli (Gus Miek)/Screenshot_2026-09-13-13-16-17-97.jpg"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Makam+KH.+Chamim+Tohari+Djazul+Kediri"
+    },
+    {
+      "id": "religi-7",
+      "name": "Makam Syekh Amir Hamzah Lokasi: Jalan Setono, Dusun Semen, D",
+      "category": "Religi",
+      "location": "Jalan Setono, Dusun Semen, Desa Semen, Kecamatan Semen, Kabupaten Kediri, Jawa Timur 64161",
+      "description": "Makam Syekh Amir Hamzah merupakan situs makam yang berada di kompleks pemakaman umum Desa Semen. Makam ini mulai dikenal dan diresmikan sebagai makam Syekh Amir Hamzah pada 2022 setelah dilakukan penelusuran terhadap bentuk nisan, silsilah, dan catatan sejarah yang berkaitan dengannya. Fakta Menarik: Syekh Amir Hamzah (wafat 1603 M), seorang ulama keturunan Sunan Giri setelah melalui penelusuran nisan andesit dan silsilah sejarah. Sebelumnya makam ini hanya dikenal masyarakat sebagai punden desa. Masyarakat setempat mempercayai Syekh Amir Hamzah sebagai tokoh yang memiliki kedudukan spiritual ",
+      "images": [
+        "assets/images/religi/Makam Syekh Amir Hamzah/Screenshot_2026-09-17-06-39-01-48.jpg",
+        "assets/images/religi/Makam Syekh Amir Hamzah/Screenshot_2026-09-17-06-39-30-87.jpg"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Makam+Syekh+Amir+Hamzah+Lokasi+Kediri"
+    },
+    {
+      "id": "religi-8",
+      "name": "Makam Syekh Abdullah Mursyad (Mbah Mursyad) Lokasi: Tegal Re",
+      "category": "Religi",
+      "location": "Tegal Rejo, Ngablak, Kec. Banyakan, Kabupaten Kediri, Jawa Timur 64151",
+      "description": "Makam Syekh Abdullah Mursyad atau Mbah Mursyad merupakan salah satu tujuan wisata religi ikonik di Kediri yang menjadi tempat ziarah masyarakat dari berbagai daerah. Mbah Mursyad dikenal dalam tradisi lokal sebagai tokoh penyebar Islam pra-Wali Songo pada abad ke-14 yang berhasil membimbing peradaban masyarakat di sepanjang bantaran barat Sungai Brantas. Fakta Menarik: Mbah Mursyad dikenal memiliki metode dakwah yang menggunakan alat musik tradisional kesenian kentrung sebagai media penyampaian syiar ajaran Islam. Di kawasan makam juga rutin diselenggarakan kegiatan keagamaan seperti istighosa",
+      "images": [
+        "assets/images/religi/Makam Syekh Abdullah Mursyad/Screenshot_2026-09-16-06-32-28-18.jpg",
+        "assets/images/religi/Makam Syekh Abdullah Mursyad/Screenshot_2026-09-16-06-33-06-38.jpg",
+        "assets/images/religi/Makam Syekh Abdullah Mursyad/Screenshot_2026-09-16-06-33-28-10.jpg",
+        "assets/images/religi/Makam Syekh Abdullah Mursyad/Screenshot_2026-09-16-06-33-51-80.jpg",
+        "assets/images/religi/Makam Syekh Abdullah Mursyad/Screenshot_2026-09-16-06-34-03-13.jpg",
+        "assets/images/religi/Makam Syekh Abdullah Mursyad/Screenshot_2026-09-16-06-34-14-73.jpg",
+        "assets/images/religi/Makam Syekh Abdullah Mursyad/Screenshot_2026-09-16-06-34-41-57.jpg",
+        "assets/images/religi/Makam Syekh Abdullah Mursyad/Screenshot_2026-09-16-06-35-02-84.jpg"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Makam+Syekh+Abdullah+Mursyad+(+Kediri"
+    },
+    {
+      "id": "religi-9",
+      "name": "Makam Sayyid Abdurahman Husain Al-Asror Azmatkhan Lokasi: Du",
+      "category": "Religi",
+      "location": "Dusun Bolorejo, Desa Tiru Lor, Kecamatan Gurah, Kabupaten Kediri, Jawa Timur 64181",
+      "description": "Situs ziarah religi di Desa Tiru Lor berupa makam ulama kuno garis keturunan Azmatkhan yang saat ini areanya sedang dalam tahap pemugaran dan pengembangan swadaya. Fakta Menarik: Ratusan tahun dianggap warga setempat sebagai punden desa keramat dari era kolonial, identitas asli makam ini akhirnya terungkap setelah dilakukan penelitian silsilah dan penelusuran sejarah spiritual. Fasilitas:  • Pendopo doa • Area santai  Jam operasional: Setiap hari / 24 jam Harga tiket: Gratis Parkir: Terbatas Akses menuju lokasi: Dari area parkir, peziarah bisa berjalan kaki selama beberapa meter Catatan: Waktu",
+      "images": [
+        "assets/images/religi/Makam Sayid Abdurrahman Husein Al-Asror/Screenshot_2026-09-16-06-47-52-16.jpg",
+        "assets/images/religi/Makam Sayid Abdurrahman Husein Al-Asror/Screenshot_2026-09-16-06-48-17-81.jpg",
+        "assets/images/religi/Makam Sayid Abdurrahman Husein Al-Asror/Screenshot_2026-09-16-06-48-31-14.jpg",
+        "assets/images/religi/Makam Sayid Abdurrahman Husein Al-Asror/Screenshot_2026-09-16-06-48-40-48.jpg",
+        "assets/images/religi/Makam Sayid Abdurrahman Husein Al-Asror/Screenshot_2026-09-16-06-49-00-79.jpg"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Makam+Sayyid+Abdurahman+Husain+Kediri"
+    },
+    {
+      "id": "religi-10",
+      "name": "Makam Syekh Zainal Abidin (Mbah Kabul) Lokasi: Jalan Pamenan",
+      "category": "Religi",
+      "location": "Jalan Pamenang, Besok, Desa Toyoresmi, Kecamatan Ngasem, Kabupaten Kediri, Jawa Timur 64182",
+      "description": "Makam Syekh Zainal Abidin atau Mbah Kabul merupakan wisata religi lokal di Desa Toyoresmi. Masyarakat setempat mengenalnya sebagai salah tokoh leluhur babat alas (pendiri) awal yang sangat berkaitan erat dengan sejarah perkembangan wilayah pemukiman di sekitar Kecamatan Ngasem. Fakta Menarik: Makam ini menjadi bagian dari tradisi bersih desa dan kirab budaya yang rutin digelar setiap bulan Suro/Muharram. Salah satu cirinya adalah kirab tumpeng tahu kuning dan hasil bumi sebelum akhirnya diarak menuju area makam. Fasilitas:  • Toilet • Mushola sekitar Jam operasional: Setiap hari / 24 jam Harga",
+      "images": [
+        "assets/images/religi/Makam Syekh Zainal Abidin/Screenshot_2026-09-16-10-36-52-75.jpg",
+        "assets/images/religi/Makam Syekh Zainal Abidin/Screenshot_2026-09-16-10-37-05-85.jpg",
+        "assets/images/religi/Makam Syekh Zainal Abidin/Screenshot_2026-09-16-10-37-47-51.jpg",
+        "assets/images/religi/Makam Syekh Zainal Abidin/Screenshot_2026-09-16-10-38-11-26.jpg",
+        "assets/images/religi/Makam Syekh Zainal Abidin/Screenshot_2026-09-16-10-38-37-93.jpg",
+        "assets/images/religi/Makam Syekh Zainal Abidin/Screenshot_2026-09-16-10-38-53-68.jpg",
+        "assets/images/religi/Makam Syekh Zainal Abidin/Screenshot_2026-09-16-10-39-31-16.jpg",
+        "assets/images/religi/Makam Syekh Zainal Abidin/Screenshot_2026-09-16-10-40-11-40.jpg"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Makam+Syekh+Zainal+Abidin+(Mba+Kediri"
+    },
+    {
+      "id": "religi-11",
+      "name": "Makam Syekh Ihsan Jampes Lokasi: Dusun Jampes, Desa Putih, K",
+      "category": "Religi",
+      "location": "Dusun Jampes, Desa Putih, Kecamatan Gampengrejo, Kabupaten Kediri, Jawa Timur 64182",
+      "description": "Makam Syekh Ihsan bin Dahlan merupakan salah satu destinasi wisata religi di Desa Putih yang menjadi tujuan ziarah masyarakat dari berbagai daerah. Syekh Ihsan dikenal sebagai ulama dan pengasuh Pondok Pesantren Jampes yang memiliki pengaruh dalam perkembangan keilmuan Islam. Makam beliau terletak di dalam kompleks utama Pondok Pesantren Al-Ihsan Jampes itu sendiri, menyatu dengan area makam keluarga dan para sesepuh pendiri pondok. Fakta Menarik: Syekh Ihsan dikenal secara internasional sebagai pengarang kitab Siraj ut-Thalibin (syarah dari kitab Minhajul ‘Abidin karya Imam Al-Ghazali) yang h",
+      "images": [
+        "assets/images/religi/Makam Syekh Ihsan Jampes/Screenshot_2026-09-13-08-46-04-82.jpg",
+        "assets/images/religi/Makam Syekh Ihsan Jampes/Screenshot_2026-09-13-08-48-01-69.jpg",
+        "assets/images/religi/Makam Syekh Ihsan Jampes/Screenshot_2026-09-13-08-51-22-05.jpg",
+        "assets/images/religi/Makam Syekh Ihsan Jampes/Screenshot_2026-09-13-08-51-31-49.jpg",
+        "assets/images/religi/Makam Syekh Ihsan Jampes/Screenshot_2026-09-13-08-51-40-76.jpg",
+        "assets/images/religi/Makam Syekh Ihsan Jampes/Screenshot_2026-09-13-08-51-51-15.jpg",
+        "assets/images/religi/Makam Syekh Ihsan Jampes/Screenshot_2026-09-13-08-52-03-16.jpg",
+        "assets/images/religi/Makam Syekh Ihsan Jampes/Screenshot_2026-09-13-08-52-25-66.jpg"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Makam+Syekh+Ihsan+Jampes+Lokas+Kediri"
+    },
+    {
+      "id": "religi-12",
+      "name": "Masjid An-Nur Kapurejo Lokasi: Dusun Kandangan, DesaPagu, Ke",
+      "category": "Religi",
+      "location": "Dusun Kandangan, DesaPagu, Kecamatan Pagu, Kabupaten Kediri, Jawa Timur 64183",
+      "description": "Masjid kuno berusia lebih dari satu abad di dalam kompleks Pondok Pesantren Kapurejo yang didirikan oleh KH Hasan Muchyi pada akhir tahun 1800-an. Fakta Menarik: elain arsitektur unik 58 rongga lengkung mirip “Lengkungan Sewu”, masjid bersejarah ini merupakan tempat syuting utama film kolosal Sang Kiai dan menjadi saksi bisu perjuangan dakwah pendiri NU, KH Hasyim Asy’ari, yang pernah menetap dan mengajar di sini. Fasilitas: • Masjid • Tempat wudhu • Toilet • Kompleks ziarah • Area parkir Jam operasional: Setiap hari / 24 jam Harga tiket: Gratis Parkir: Tersedia Akses menuju lokasi: Cukup berj",
+      "images": [
+        "assets/images/religi/Masjid An-Nur Kapurejo/Screenshot_2026-09-17-07-36-50-86.jpg",
+        "assets/images/religi/Masjid An-Nur Kapurejo/Screenshot_2026-09-17-07-37-03-66.jpg"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Masjid+An-Nur+Kapurejo+Lokasi:+Kediri"
+    },
+    {
+      "id": "religi-13",
+      "name": "Makam Mbah Khusein Lokasi: Dusun Cangkring, Desa Banjaranyar",
+      "category": "Religi",
+      "location": "Dusun Cangkring, Desa Banjaranyar, Kecamatan Kras, Kabupaten Kediri, Jawa Timur 64172",
+      "description": "Makam Mbah Khusein merupakan wisata religi lokal di Desa Banjaranyar yang terletak di tengah kompleks pemakaman umum desa. Mbah Khusein dikenal luas oleh masyarakat setempat sebagai salah satu figur ulama pendiri pondok pesantren setempat, sehingga area makamnya selalu ramai diziarahi oleh masyarakat, terutama saat momen pelaksanaan haul besar tahunan. Fakta Menarik: Kawasan makam terus dikembangkan dan ditata rapi oleh pemerintah desa, termasuk pelebaran akses jalan, pembangunan pagar pembatas tembok makam, penyediaan tempat parkir, dan area berjualan bagi warga sekitar. Fasilitas: • Tempat p",
+      "images": [
+        "assets/images/religi/Makam Mbah Khusein/Screenshot_2026-09-16-09-36-48-77.jpg",
+        "assets/images/religi/Makam Mbah Khusein/Screenshot_2026-09-16-09-38-03-44.jpg",
+        "assets/images/religi/Makam Mbah Khusein/Screenshot_2026-09-16-09-39-23-21.jpg"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Makam+Mbah+Khusein+Lokasi:+Dus+Kediri"
+    },
+    {
+      "id": "air-0",
+      "name": "Sumber Bogem Lokasi: Desa Bogem, Kecamatan Gurah, Kabupaten ",
+      "category": "Air",
+      "location": "Desa Bogem, Kecamatan Gurah, Kabupaten Kediri, Jawa Timur.",
+      "description": "Sumber Bogem merupakan mata air alami yang berada di tengah kawasan persawahan Desa Bogem. Mata air ini memiliki dua sumber utama yang airnya keluar dari sela-sela akar pohon besar, kemudian berkumpul menjadi satu aliran. Lingkungannya masih didominasi pepohonan besar dan persawahan sehingga memberikan karakter alami yang kuat. Fakta Menarik:  Nama \"Bogem\" yang melekat pada desa dan sumber air ini menyimpan cerita kuno tentang pohon Bogem, sejenis pohon rawa beringin purba yang dahulu tumbuh sangat lebat dan menjadi penanda wilayah pemukiman warga. Keunikan utama tempat ini ada pada pohon beri",
+      "images": [
+        "assets/images/air/Sumber Bogem/IMG_20260920_154935.png",
+        "assets/images/air/Sumber Bogem/IMG_20260920_154946.png",
+        "assets/images/air/Sumber Bogem/IMG_20260920_154956.png",
+        "assets/images/air/Sumber Bogem/IMG_20260920_155005.png",
+        "assets/images/air/Sumber Bogem/IMG_20260920_155016.png",
+        "assets/images/air/Sumber Bogem/IMG_20260920_155027.png"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Sumber+Bogem+Lokasi:+Desa+Boge+Kediri"
+    },
+    {
+      "id": "air-1",
+      "name": "Pancar Wonotirto Lokasi: Dusun Wonokasian, Desa Gayam, Kecam",
+      "category": "Air",
+      "location": "Dusun Wonokasian, Desa Gayam, Kecamatan Gurah, Kabupaten Kediri, Jawa Timur",
+      "description": "Pancar Wonotirto merupakan wisata alam yang memanfaatkan aliran sungai dangkal dan jernih sebagai daya tarik utamanya. Kawasan sungai ditata oleh Pemerintah Desa Gayam bersama masyarakat Dusun Wonokasian sehingga berubah dari sungai biasa menjadi tempat rekreasi yang nyaman. Suasananya terasa sejuk karena aliran sungai dikelilingi pepohonan bambu yang rindang. Wisata ini cocok untuk pengunjung yang ingin bermain air, bersantai, menikmati suasana pedesaan, atau menghabiskan waktu bersama keluarga. Fakta Menarik:  Gabungan kata pada nama \"Pancar Wonotirto\" diambil dari bahasa Jawa kuno yang memi",
+      "images": [
+        "assets/images/air/Pancar Wonotirto/IMG_20260920_154140.png",
+        "assets/images/air/Pancar Wonotirto/IMG_20260920_154151.png",
+        "assets/images/air/Pancar Wonotirto/IMG_20260920_154202.png",
+        "assets/images/air/Pancar Wonotirto/IMG_20260920_154224.png",
+        "assets/images/air/Pancar Wonotirto/IMG_20260920_154234.png",
+        "assets/images/air/Pancar Wonotirto/IMG_20260920_154244.png",
+        "assets/images/air/Pancar Wonotirto/IMG_20260920_154253.png",
+        "assets/images/air/Pancar Wonotirto/IMG_20260920_154302.png"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Pancar+Wonotirto+Lokasi:+Dusun+Kediri"
+    },
+    {
+      "id": "air-2",
+      "name": "Sumber Kedung Tulungrejo Lokasi: Jl. Bringin No. 17-6, Mulyo",
+      "category": "Air",
+      "location": "Jl. Bringin No. 17-6, Mulyoasri, Desa Tulungrejo, Kecamatan Pare, Kabupaten Kediri, Jawa Timur.",
+      "description": "Sumber Kedung Tulungrejo merupakan kawasan sumber air yang kini tercatat sebagai salah satu Tujuan Wisata di Desa Tulungrejo. Lokasinya berada di kawasan yang cukup dekat dengan aktivitas masyarakat Tulungrejo, sehingga keberadaan sumber memberikan sisi alami di tengah desa yang dikenal sebagai kawasan pendidikan. Fakta Menarik: Kata “kedung” dalam penggunaan bahasa Jawa sering berkaitan dengan bagian perairan yang lebih dalam atau menjadi tempat berkumpulnya air. Nama tersebut membuat Sumber Kedung memiliki karakter lokal yang kuat. Keberadaannya juga menjadi pengingat bahwa sebelum Tulungrej",
+      "images": [
+        "assets/images/air/Sumber Kedung Tulungrejo/IMG-20260912-WA0124.jpg",
+        "assets/images/air/Sumber Kedung Tulungrejo/IMG-20260912-WA0125.jpg",
+        "assets/images/air/Sumber Kedung Tulungrejo/IMG-20260912-WA0126.jpg",
+        "assets/images/air/Sumber Kedung Tulungrejo/IMG-20260912-WA0127.jpg",
+        "assets/images/air/Sumber Kedung Tulungrejo/IMG-20260912-WA0128.jpg",
+        "assets/images/air/Sumber Kedung Tulungrejo/IMG-20260912-WA0129.jpg",
+        "assets/images/air/Sumber Kedung Tulungrejo/foto.jpg"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Sumber+Kedung+Tulungrejo+Lokas+Kediri"
+    },
+    {
+      "id": "air-3",
+      "name": "Sumber Sirah Lokasi: Jalan Masjid Ar-Robithoh RT 01/RW 01, D",
+      "category": "Air",
+      "location": "Jalan Masjid Ar-Robithoh RT 01/RW 01, Desa Kerkep, Kecamatan Gurah, Kabupaten Kediri, Jawa Timur .",
+      "description": "Sumber Sirah merupakan wisata air yang memanfaatkan mata air alami sebagai sumber air kolam. Kawasannya memiliki suasana rindang dengan pepohonan besar dan dikembangkan sebagai destinasi wisata keluarga. Selain menikmati sumber air, pengunjung dapat berenang, bersantai, menikmati taman, serta menggunakan berbagai fasilitas rekreasi yang tersedia. Sumber Sirah juga telah dikembangkan sebagai bagian dari potensi wisata Desa Kerkep. Fakta Menarik: Nama \"Sirah\" yang melekat pada kawasan ini memiliki akar asal-usul bahasa Jawa yang berarti \"kepala\" atau \"hulu\", menandakan posisinya sejak zaman dahu",
+      "images": [
+        "assets/images/air/Sumber Sirah/IMG_20260920_155748.png",
+        "assets/images/air/Sumber Sirah/IMG_20260920_155811.png",
+        "assets/images/air/Sumber Sirah/IMG_20260920_155822.png",
+        "assets/images/air/Sumber Sirah/IMG_20260920_155833.png",
+        "assets/images/air/Sumber Sirah/IMG_20260920_155846.png",
+        "assets/images/air/Sumber Sirah/IMG_20260920_155856.png",
+        "assets/images/air/Sumber Sirah/IMG_20260920_155909.png",
+        "assets/images/air/Sumber Sirah/IMG_20260920_155927.png"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Sumber+Sirah+Lokasi:+Jalan+Mas+Kediri"
+    },
+    {
+      "id": "air-4",
+      "name": "Patirtan Sumber Pancur Lokasi: Jl. Supriadi No. 2, Gedangsew",
+      "category": "Air",
+      "location": "Jl. Supriadi No. 2, Gedangsewu Wetan, Desa Gedangsewu, Kecamatan Pare, Kabupaten Kediri, Jawa Timur.",
+      "description": "Di tengah kawasan Desa Gedangsewu terdapat Patirtan Sumber Pancur, sebuah tempat yang memperlihatkan bagaimana air menjadi bagian penting dari kehidupan masyarakat. Air yang muncul dari sumber kemudian menjadi daya tarik tersendiri bagi lingkungan sekitarnya. Suasana sumber memberikan kesan berbeda dari tempat wisata modern karena pengunjung dapat melihat langsung keberadaan sumber air yang tumbuh dan dipertahankan di tengah kehidupan masyarakat desa. Fakta Menarik: Kata “patirtan” bukan sekadar nama biasa. Dalam budaya Jawa, istilah patirtan berkaitan dengan tempat yang berhubungan dengan air",
+      "images": [
+        "assets/images/air/Patirtan Sumber Pancur/WA_1789231624474.jpeg",
+        "assets/images/air/Patirtan Sumber Pancur/WA_1789231626385.jpeg",
+        "assets/images/air/Patirtan Sumber Pancur/WA_1789231628603.jpeg",
+        "assets/images/air/Patirtan Sumber Pancur/WA_1789231630724.jpeg",
+        "assets/images/air/Patirtan Sumber Pancur/WA_1789231633213.jpeg",
+        "assets/images/air/Patirtan Sumber Pancur/WA_1789231635944.jpeg",
+        "assets/images/air/Patirtan Sumber Pancur/WA_1789231638131.jpeg",
+        "assets/images/air/Patirtan Sumber Pancur/WA_1789231640420.jpeg"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Patirtan+Sumber+Pancur+Lokasi:+Kediri"
+    },
+    {
+      "id": "air-5",
+      "name": "Sumber Tlogowaru I / Telaga Husada Lokasi: Dusun Telogowono,",
+      "category": "Air",
+      "location": "Dusun Telogowono, Desa Nglumbang, Kecamatan Gurah, Kabupaten Kediri, Jawa Timur.",
+      "description": "Telaga Husada merupakan wisata alam dan wisata air yang dikembangkan dari Sumber Air Tlogowaru 1 di Desa Nglumbang. Sebelum dikembangkan, kawasan sumber tersebut kurang terawat dan mengalami pendangkalan. Pada 2019, sumber dinormalisasi sehingga kedalaman airnya menjadi sekitar 3–4 meter, kemudian Pemerintah Desa Nglumbang bersama BPD membentuk Kelompok Sadar Wisata (Pokdarwis) dan memberi nama baru kawasan tersebut Telaga Husada pada Februari 2020.Nama “Husada” berkaitan dengan sejarah lokal Desa Nglumbang. Menurut cerita yang disampaikan pemerintah desa, kawasan tersebut memiliki kaitan deng",
+      "images": [
+        "assets/images/air/Sumber Tlogowaru I _ Telaga Husada/IMG_20260920_153605.png",
+        "assets/images/air/Sumber Tlogowaru I _ Telaga Husada/IMG_20260920_153717.png",
+        "assets/images/air/Sumber Tlogowaru I _ Telaga Husada/IMG_20260920_153730.png",
+        "assets/images/air/Sumber Tlogowaru I _ Telaga Husada/IMG_20260920_153743.png",
+        "assets/images/air/Sumber Tlogowaru I _ Telaga Husada/IMG_20260920_153757.png",
+        "assets/images/air/Sumber Tlogowaru I _ Telaga Husada/IMG_20260920_153810.png",
+        "assets/images/air/Sumber Tlogowaru I _ Telaga Husada/IMG_20260920_153821.png",
+        "assets/images/air/Sumber Tlogowaru I _ Telaga Husada/IMG_20260920_153834.png"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Sumber+Tlogowaru+I+/+Telaga+Hu+Kediri"
+    },
+    {
+      "id": "air-6",
+      "name": "Sumber Dlopo Lokasi: Dusun Dlopo, Desa Karangrejo, Kecamatan",
+      "category": "Air",
+      "location": "Dusun Dlopo, Desa Karangrejo, Kecamatan Ngasem, Kabupaten Kediri, Jawa Timur.",
+      "description": "Sumber Dlopo merupakan mata air yang berada di tengah permukiman warga Desa Karangrejo. Meski dikelilingi rumah dan pondok pesantren, kawasan sumber masih memiliki suasana yang cukup teduh karena terdapat pepohonan besar di sekitarnya. Airnya yang jernih membuat sumber ini sejak lama dimanfaatkan masyarakat untuk berbagai kebutuhan, termasuk mandi dan berenang. Kini, keberadaan kolam dan warung di sekitar sumber membuatnya juga dikenal sebagai tempat rekreasi air sederhana yang dekat dengan kehidupan masyarakat setempat. Fakta Menarik: Kawasan ini secara resmi dinamai oleh pengelola lokal seba",
+      "images": [
+        "assets/images/air/Sumber Dlopo/IMG-20260912-WA0059.jpg",
+        "assets/images/air/Sumber Dlopo/IMG-20260912-WA0060.jpg",
+        "assets/images/air/Sumber Dlopo/IMG-20260912-WA0062.jpg",
+        "assets/images/air/Sumber Dlopo/IMG-20260912-WA0063.jpg",
+        "assets/images/air/Sumber Dlopo/IMG-20260912-WA0065.jpg",
+        "assets/images/air/Sumber Dlopo/IMG-20260912-WA0066.jpg",
+        "assets/images/air/Sumber Dlopo/IMG-20260912-WA0067.jpg",
+        "assets/images/air/Sumber Dlopo/IMG-20260912-WA0068.jpg"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Sumber+Dlopo+Lokasi:+Dusun+Dlo+Kediri"
+    },
+    {
+      "id": "air-7",
+      "name": "Sumber Pule  Lokasi: Desa Pule, Kecamatan Kandat, Kabupaten ",
+      "category": "Air",
+      "location": "Desa Pule, Kecamatan Kandat, Kabupaten Kediri, Jawa Timur.",
+      "description": "Sumber Pule merupakan mata air alami yang berada di tengah persawahan Desa Pule. Airnya tetap mengalir meskipun musim kemarau dan memiliki dua mata air dengan debit yang cukup besar. Selain dimanfaatkan untuk mengairi sawah, kawasan ini juga mulai dikenal sebagai tempat bersantai dan menikmati suasana sore. Fakta Menarik: Berbeda dengan sumber air lainnya yang dikembangkan untuk berenang, kawasan ini sangat populer sebagai surganya para kutu pancing dan pemancing lokal karena kolam alaminya menjadi rumah bagi ribuan jenis ikan air tawar liar yang berkembang biak dengan sangat cepat. Setiap sor",
+      "images": [
+        "assets/images/air/Sumber Pule/IMG_20260916_145232.png",
+        "assets/images/air/Sumber Pule/IMG_20260916_145244.png",
+        "assets/images/air/Sumber Pule/IMG_20260916_145256.png",
+        "assets/images/air/Sumber Pule/IMG_20260916_145306.png",
+        "assets/images/air/Sumber Pule/IMG_20260916_145320.png",
+        "assets/images/air/Sumber Pule/IMG_20260916_145346.png",
+        "assets/images/air/Sumber Pule/IMG_20260916_145359.png",
+        "assets/images/air/Sumber Pule/IMG_20260916_145410.png"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Sumber+Pule++Lokasi:+Desa+Pule+Kediri"
+    },
+    {
+      "id": "air-8",
+      "name": "Sumber Klinting Lokasi: Dusun Mangiran, Desa Bringin, Kecama",
+      "category": "Air",
+      "location": "Dusun Mangiran, Desa Bringin, Kecamatan Badas, Kabupaten Kediri, Jawa Timur.",
+      "description": "Sumber Klinting merupakan salah satu sumber air yang cukup dikenal di Kecamatan Badas. Kawasan ini berada di lingkungan pedesaan yang masih terasa alami dan memiliki suasana yang tenang. Keberadaan sumber air menjadikan tempat ini tidak hanya penting bagi masyarakat sekitar, tetapi juga menarik perhatian pengunjung yang ingin menikmati suasana sumber dan merasakan sisi lain wisata alam Kabupaten Kediri. Saat ini Sumber Klinting tercatat di Maps sebagai tujuan wisata. Fakta Menarik: Sebelum berkembang menjadi tempat yang lebih dikenal seperti sekarang, Sumber Klinting awalnya hanya berupa mata ",
+      "images": [
+        "assets/images/air/Sumber Klinting/IMG-20260913-WA0001.jpg",
+        "assets/images/air/Sumber Klinting/IMG-20260913-WA0002(1).jpg",
+        "assets/images/air/Sumber Klinting/IMG-20260913-WA0003(1).jpg",
+        "assets/images/air/Sumber Klinting/IMG-20260913-WA0007.jpg",
+        "assets/images/air/Sumber Klinting/WA_1789302074435.jpeg",
+        "assets/images/air/Sumber Klinting/WA_1789302076188.jpeg",
+        "assets/images/air/Sumber Klinting/foto.jpg"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Sumber+Klinting+Lokasi:+Dusun++Kediri"
+    },
+    {
+      "id": "air-9",
+      "name": "Embung Sumber Wadon  Lokasi:  Dusun Semanding, Desa Tertek, ",
+      "category": "Air",
+      "location": "Dusun Semanding, Desa Tertek, Kecamatan Pare, Kabupaten Kediri, Jawa Timur.",
+      "description": "Sumber Wadon merupakan kawasan sumber air yang berada di Semanding, Desa Tertek. Kini lokasi ini dikenal pula sebagai Embung Sumber Wadon. Lingkungannya memberikan suasana yang berbeda dari kawasan perkotaan dan menjadi salah satu tempat yang dapat dikunjungi untuk melihat sumber air lokal yang masih menjadi bagian dari kehidupan masyarakat. Fakta Menarik: Jika Sumber Lanang memiliki nama yang berarti laki-laki, Sumber Wadon berarti perempuan. Keduanya menjadi pasangan nama yang cukup unik di antara sumber-sumber air di Kecamatan Pare. Penamaan tersebut tidak hanya membuat kedua sumber mudah d",
+      "images": [
+        "assets/images/air/Embung Sumber Wadon/WA_1789231279338.jpeg",
+        "assets/images/air/Embung Sumber Wadon/WA_1789231281513.jpeg",
+        "assets/images/air/Embung Sumber Wadon/WA_1789231283725.jpeg",
+        "assets/images/air/Embung Sumber Wadon/WA_1789231286012.jpeg",
+        "assets/images/air/Embung Sumber Wadon/WA_1789231288764.jpeg",
+        "assets/images/air/Embung Sumber Wadon/WA_1789231291187.jpeg",
+        "assets/images/air/Embung Sumber Wadon/WA_1789231293240.jpeg",
+        "assets/images/air/Embung Sumber Wadon/foto .jpeg"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Embung+Sumber+Wadon++Lokasi:+++Kediri"
+    },
+    {
+      "id": "air-10",
+      "name": "Sumber Glodok Lokasi: Area persawahan Desa Ngreco, Kecamatan",
+      "category": "Air",
+      "location": "Area persawahan Desa Ngreco, Kecamatan Kandat, Kabupaten Kediri, Jawa Timur.",
+      "description": "Sumber Glodok merupakan mata air alami yang tersembunyi di tengah persawahan Desa Ngreco. Airnya muncul dari celah batuan dan tetap mengalir meskipun terjadi musim kemarau. Karena lokasinya yang cukup tersembunyi, tempat ini cocok menjadi salah satu hidden gem wisata sumber di Kecamatan Kandat. Fakta Menarik: Asal-usul nama \"Glodok\" pada mata air ini memiliki cerita unik yang berasal dari bunyi suara aliran airnya sendiri. Warga terdahulu menamainya demikian karena air bersih yang keluar dari celah bebatuan bawah tanah selalu mengeluarkan suara gemercik yang terdengar seperti bunyi \"glodok-glo",
+      "images": [
+        "assets/images/air/Sumber Glodok/IMG_20260916_143412.png",
+        "assets/images/air/Sumber Glodok/IMG_20260916_143547.png",
+        "assets/images/air/Sumber Glodok/IMG_20260916_143611.png",
+        "assets/images/air/Sumber Glodok/IMG_20260916_143623.png",
+        "assets/images/air/Sumber Glodok/IMG_20260916_143729.png",
+        "assets/images/air/Sumber Glodok/IMG_20260916_143744.png",
+        "assets/images/air/Sumber Glodok/IMG_20260916_143757.png"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Sumber+Glodok+Lokasi:+Area+per+Kediri"
+    },
+    {
+      "id": "air-11",
+      "name": "Sumber Kamulyan Lokasi: Jl. Cisadane, Desa Sumberbendo, Keca",
+      "category": "Air",
+      "location": "Jl. Cisadane, Desa Sumberbendo, Kecamatan Pare, Kabupaten Kediri, Jawa Timur.",
+      "description": "Sumber Kamulyan merupakan salah satu kawasan sumber air yang berada di Desa Sumberbendo, Kecamatan Pare. Suasana kawasan sumber menawarkan sisi lain dari Pare yang tidak hanya dikenal sebagai kawasan pendidikan, tetapi juga memiliki ruang-ruang alami yang dekat dengan kehidupan masyarakat. Air yang keluar dari kawasan sumber menjadi bagian dari lingkungan desa dan sejak dahulu memiliki hubungan dengan aktivitas masyarakat di sekitarnya. Kini, Sumber Kamulyan dikenal sebagai salah satu tempat yang dapat dikunjungi untuk menikmati suasana sumber air dan lingkungan yang lebih tenang. Fakta Menari",
+      "images": [
+        "assets/images/air/Sumber Kamulyan/IMG-20260912-WA0131.jpg",
+        "assets/images/air/Sumber Kamulyan/IMG-20260912-WA0132.jpg",
+        "assets/images/air/Sumber Kamulyan/IMG-20260912-WA0133.jpg",
+        "assets/images/air/Sumber Kamulyan/IMG-20260912-WA0134.jpg",
+        "assets/images/air/Sumber Kamulyan/IMG-20260912-WA0135.jpg",
+        "assets/images/air/Sumber Kamulyan/IMG-20260912-WA0136.jpg",
+        "assets/images/air/Sumber Kamulyan/foto.jpg"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Sumber+Kamulyan+Lokasi:+Jl.+Ci+Kediri"
+    },
+    {
+      "id": "air-12",
+      "name": "Sumber Urung-Urung Mangiran Lokasi: Jl. Manyar No. 3, Desa L",
+      "category": "Air",
+      "location": "Jl. Manyar No. 3, Desa Lamong, Kecamatan Badas, Kabupaten Kediri, Jawa Timur.",
+      "description": "Sumber Urung-Urung Mangiran merupakan salah satu sumber air yang telah berkembang menjadi tujuan wisata di Kecamatan Badas. Kawasan ini menawarkan suasana yang lebih santai dengan lingkungan terbuka dan air sebagai daya tarik utamanya. Lokasinya yang berada di Desa Lamong membuat tempat ini menjadi salah satu pilihan masyarakat untuk menikmati wisata lokal tanpa harus pergi jauh dari lingkungan pedesaan. Fakta Menarik: Keberadaan Sumber Urung-Urung menunjukkan bagaimana mata air yang awalnya memiliki fungsi bagi masyarakat dapat berkembang menjadi tempat rekreasi. Nama “Urung-Urung” sendiri me",
+      "images": [
+        "assets/images/air/Sumber Urung-Urung Mangiran/IMG_20260913_211015.png",
+        "assets/images/air/Sumber Urung-Urung Mangiran/IMG_20260913_211042.png",
+        "assets/images/air/Sumber Urung-Urung Mangiran/IMG_20260913_211058.png",
+        "assets/images/air/Sumber Urung-Urung Mangiran/IMG_20260913_211113.png",
+        "assets/images/air/Sumber Urung-Urung Mangiran/IMG_20260913_211130.png",
+        "assets/images/air/Sumber Urung-Urung Mangiran/IMG_20260913_211142.png",
+        "assets/images/air/Sumber Urung-Urung Mangiran/IMG_20260913_211153.png",
+        "assets/images/air/Sumber Urung-Urung Mangiran/IMG_20260913_211206.png"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Sumber+Urung-Urung+Mangiran+Lo+Kediri"
+    },
+    {
+      "id": "air-13",
+      "name": "Sumber Lanang  Lokasi: Jl. Panglima Polim No. 28, Dusun Sema",
+      "category": "Air",
+      "location": "Jl. Panglima Polim No. 28, Dusun Semanding, Desa Tertek, Kecamatan Pare, Kabupaten Kediri, Jawa Timu",
+      "description": "Sumber Lanang merupakan sumber air yang berada di kawasan Semanding, Desa Tertek. Suasana di sekitar sumber memberikan gambaran tentang hubungan masyarakat desa dengan air yang telah berlangsung sejak lama. Saat ini Sumber Lanang tercatat sebagai salah satu tujuan yang menarik untuk dikunjungi ketika menjelajahi sumber-sumber lokal di Kecamatan Pare. Fakta Menarik: Yang membuat Sumber Lanang berbeda adalah namanya yang memiliki pasangan, yaitu Sumber Wadon. Dalam bahasa Jawa, lanang berarti laki-laki, sedangkan wadon berarti perempuan. Dua nama tersebut membuat masyarakat mengenal kedua sumber",
+      "images": [
+        "assets/images/air/Sumber Lanang/IMG_20260913_205537.png",
+        "assets/images/air/Sumber Lanang/IMG_20260913_205612.png",
+        "assets/images/air/Sumber Lanang/IMG_20260913_205626.png",
+        "assets/images/air/Sumber Lanang/IMG_20260913_205706.png",
+        "assets/images/air/Sumber Lanang/IMG_20260913_205720.png",
+        "assets/images/air/Sumber Lanang/IMG_20260913_205753.png",
+        "assets/images/air/Sumber Lanang/IMG_20260913_205809.png",
+        "assets/images/air/Sumber Lanang/IMG_20260913_205824.png"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Sumber+Lanang++Lokasi:+Jl.+Pan+Kediri"
+    },
+    {
+      "id": "air-14",
+      "name": "Sumber Lumbu Lokasi: Dusun Sumber Lumbu, Desa Margourip, Kec",
+      "category": "Air",
+      "location": "Dusun Sumber Lumbu, Desa Margourip, Kecamatan Ngancar, Kabupaten Kediri, Jawa Timur. Deskripsi : Sum",
+      "description": "Sumber Lumbu Lokasi: Dusun Sumber Lumbu, Desa Margourip, Kecamatan Ngancar, Kabupaten Kediri, Jawa Timur. Deskripsi : Sumber Lumbu merupakan sebuah wilayah yang kental dengan suasana pedesaan dan hamparan persawahan yang hijau. Tempat ini terletak di dalam area Dusun Sumber Lumbu yang menjadi bagian resmi dari Desa Margourip. Wilayah ini dikenal menyimpan potensi alam pedalaman yang sangat indah dan asri, di mana ketenangan alamnya masih sangat terjaga dari kebisingan kota. Kehadiran Sumber Lumb",
+      "images": [
+        "assets/images/air/Sumber Lumbu/Foto .jpg",
+        "assets/images/air/Sumber Lumbu/IMG-20260912-WA0049.jpg",
+        "assets/images/air/Sumber Lumbu/IMG-20260912-WA0050.jpg",
+        "assets/images/air/Sumber Lumbu/IMG-20260912-WA0051.jpg",
+        "assets/images/air/Sumber Lumbu/IMG-20260912-WA0052.jpg",
+        "assets/images/air/Sumber Lumbu/IMG-20260912-WA0053.jpg",
+        "assets/images/air/Sumber Lumbu/IMG-20260912-WA0054.jpg",
+        "assets/images/air/Sumber Lumbu/IMG-20260912-WA0055.jpg"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Sumber+Lumbu+Lokasi:+Dusun+Sum+Kediri"
+    },
+    {
+      "id": "air-15",
+      "name": "Sendang Kahuripan Pandan Kidul Lokasi: Jl. Candi Surowono, S",
+      "category": "Air",
+      "location": "Jl. Candi Surowono, Surowono, Canggu, Kec. Badas, Kabupaten Kediri, Jawa Timur.",
+      "description": "Sumber Kahuripan merupakan kawasan sumber air yang memiliki hubungan erat dengan Situs Candi dan Terowongan Surowono. Kawasan ini menarik karena sumber airnya tidak hanya memiliki fungsi bagi masyarakat, tetapi juga berada dalam lingkungan peninggalan sejarah dari masa Jawa kuno. Fakta Menarik: Kawasan Surowono memiliki jaringan saluran air bawah tanah yang menjadi salah satu keunikan kawasan tersebut. Penelitian arkeologi menunjukkan adanya lubang-lubang yang menjadi bagian dari sistem saluran air, dengan salah satunya berkaitan dengan sumber mata air. Air tersebut kemudian keluar ke permukaa",
+      "images": [
+        "assets/images/air/Sendang Kahuripan Pandan Kidul/WA_1789231958750.jpeg",
+        "assets/images/air/Sendang Kahuripan Pandan Kidul/WA_1789231966895.jpeg",
+        "assets/images/air/Sendang Kahuripan Pandan Kidul/WA_1789231968730.jpeg",
+        "assets/images/air/Sendang Kahuripan Pandan Kidul/WA_1789231971774.jpeg",
+        "assets/images/air/Sendang Kahuripan Pandan Kidul/WA_1789231973194.jpeg",
+        "assets/images/air/Sendang Kahuripan Pandan Kidul/WA_1789231975748.jpeg",
+        "assets/images/air/Sendang Kahuripan Pandan Kidul/WA_1789231977193.jpeg",
+        "assets/images/air/Sendang Kahuripan Pandan Kidul/foto.jpeg"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Sendang+Kahuripan+Pandan+Kidul+Kediri"
+    },
+    {
+      "id": "air-16",
+      "name": "Sendang Sumber Agung Lokasi: Dusun Sumberagung, Desa Sonorej",
+      "category": "Air",
+      "location": "Dusun Sumberagung, Desa Sonorejo, Kecamatan Grogol, Kabupaten Kediri, Jawa Timur.",
+      "description": "Wisata alam ini menyajikan pesona mata air murni di bawah pepohonan rindang dan sejuk. Sebagai salah satu destinasi unggulan dari program \"Kampung Pelangi\", kawasan yang dahulunya berupa rawa ini telah ditata rapi oleh pemerintah desa setempat. Selain menjadi hulu irigasi pertanian, tempat ini populer sebagai jujukan wisata keluarga berkat kolam pemandian alaminya, wahana rekreasi air, serta nilai historis ziarah makam leluhur desa. Fakta Menarik: Kawasan ini menyimpan pesona unik di mana ketiga mata air ikoniknya, yaitu Sumber Kantil, Kencono, dan Drajat, mengalir dan menyatu di satu titik sa",
+      "images": [
+        "assets/images/air/Sendang Sumber Agung/IMG_20260913_212613.png",
+        "assets/images/air/Sendang Sumber Agung/IMG_20260913_212623.png",
+        "assets/images/air/Sendang Sumber Agung/IMG_20260913_212634.png",
+        "assets/images/air/Sendang Sumber Agung/IMG_20260913_212645.png",
+        "assets/images/air/Sendang Sumber Agung/IMG_20260913_212654.png",
+        "assets/images/air/Sendang Sumber Agung/IMG_20260913_212704.png",
+        "assets/images/air/Sendang Sumber Agung/IMG_20260913_212713.png",
+        "assets/images/air/Sendang Sumber Agung/IMG_20260913_212742.png"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Sendang+Sumber+Agung+Lokasi:+D+Kediri"
+    },
+    {
+      "id": "air-17",
+      "name": "Sumber Soko Lokasi: Dusun Celeb, Desa Mlancu, Kecamatan Kand",
+      "category": "Air",
+      "location": "Dusun Celeb, Desa Mlancu, Kecamatan Kandangan, Kabupaten Kediri, Jawa Timur",
+      "description": "Sumber Soko merupakan mata air murni tersembunyi yang berada di kawasan pedesaan yang sejuk dan masih sangat asri. Airnya yang bening keluar langsung dari celah tanah pedalaman dan mengalir menyusuri parit-parit desa. Karena letaknya yang terpencil dan belum dibangun secara besar-besaran, tempat ini sangat pas digambarkan sebagai tempat tenang yang masih perawan dan jauh dari ramainya kota, sehingga cocok untuk petualang yang ingin mencari kedamaian alam yang asli. Fakta Menarik: Nama tempat ini diambil dari keberadaan pohon Soko purba yang dahulu tumbuh menjulang tinggi di dekat mata air, di ",
+      "images": [
+        "assets/images/air/Sumber Soko/IMG_20260920_153305.png",
+        "assets/images/air/Sumber Soko/IMG_20260920_153319.png",
+        "assets/images/air/Sumber Soko/IMG_20260920_153334.png"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Sumber+Soko+Lokasi:+Dusun+Cele+Kediri"
+    },
+    {
+      "id": "air-18",
+      "name": "Sumber Air Dawung Lokasi: Dusun Putuk, Desa Banaran, Kecamat",
+      "category": "Air",
+      "location": "Dusun Putuk, Desa Banaran, Kecamatan Kandangan, Kabupaten Kediri, Jawa Timur.",
+      "description": "Sumber Air Dawung merupakan mata air alami tersembunyi yang mengalir dari celah bumi pedesaan Kandangan yang sejuk. Keberadaannya menyuguhkan kesegaran air murni yang belum tersentuh oleh pembangunan modern ataupun pengelolaan tempat liburan buatan. Karena areanya masih sangat alami dan asri, tempat ini menjadi lokasi yang sangat pas untuk menggambarkan arti sebuah tempat rahasia yang sepi dari keramaian dan masih murni digunakan untuk kehidupan sehari-hari masyarakat desa. Fakta Menarik: Nama \"Dawung\" yang disematkan pada sumber air ini berasal dari cerita pohon Dawung kuno, sejenis pohon hut",
+      "images": [],
+      "maps_link": "https://www.google.com/maps/search/Sumber+Air+Dawung+Lokasi:+Dusu+Kediri"
+    },
+    {
+      "id": "air-19",
+      "name": "Sumber Toto Lokasi: Desa Kerkep, Kecamatan Gurah, Kabupaten ",
+      "category": "Air",
+      "location": "Desa Kerkep, Kecamatan Gurah, Kabupaten Kediri, Jawa Timur.",
+      "description": "Sumber Toto merupakan kawasan mata air alami tersembunyi di Desa Kerkep yang masih sangat asri dan kental dengan pedesaan otentik. Berbeda dengan  (Sumber Sirah) yang sudah dikembangkan secara modern menjadi wisata keluarga , Sumber Toto dibiarkan mempertahankan bentuk aslinya tanpa intervensi beton yang masif. Memiliki nilai sejarah kultural kemasyarakatan yang kuat, kawasan ini kini menjadi simbol pergerakan gerakan pelestarian alam serta wilayah konservasi hijau yang dijaga ketat oleh masyarakat dan pegiat lingkungan lokal. Fakta Menarik:Asal-usul nama \"Toto\" yang melekat pada sumber air in",
+      "images": [
+        "assets/images/air/Sumber Toto/IMG_20260920_155256.png",
+        "assets/images/air/Sumber Toto/IMG_20260920_155315.png",
+        "assets/images/air/Sumber Toto/IMG_20260920_155327.png",
+        "assets/images/air/Sumber Toto/IMG_20260920_155339.png",
+        "assets/images/air/Sumber Toto/IMG_20260920_155348.png",
+        "assets/images/air/Sumber Toto/IMG_20260920_155358.png",
+        "assets/images/air/Sumber Toto/IMG_20260920_155423.png"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Sumber+Toto+Lokasi:+Desa+Kerke+Kediri"
+    },
+    {
+      "id": "air-20",
+      "name": "Sumber Air SumberAgung — Wonoasri Lokasi: Area persawahan, D",
+      "category": "Air",
+      "location": "Area persawahan, Desa Wonoasri, Kecamatan Grogol, Kabupaten Kediri, Jawa Timur.",
+      "description": "Sumber Air SumberAgung merupakan titik mata air murni tersembunyi yang berlokasi di  Desa Wonoasri. Berbeda dengan tetangganya (Wisata Sendang Sumber Agung di Desa Sonorejo) yang sudah dikomersialkan, titik sumber air di Wonoasri ini masih berstatus sebagai mata air alami murni non-wisata buatan. Karena fungsi utamanya masih murni difokuskan untuk menyokong kebutuhan irigasi persawahan lokal, kawasan ini menyajikan panorama alam pedesaan yang orisinal, dan belum tersentuh oleh pembangunan modern. Fakta Menarik: Keberadaan mata air ini menyimpan sejarah erat dengan kisah \"babat alas\" pembentuka",
+      "images": [
+        "assets/images/air/Sumber Air SumberAgung — Wonoasri/IMG_20260913_213404.png",
+        "assets/images/air/Sumber Air SumberAgung — Wonoasri/IMG_20260913_213415.png",
+        "assets/images/air/Sumber Air SumberAgung — Wonoasri/IMG_20260913_213424.png",
+        "assets/images/air/Sumber Air SumberAgung — Wonoasri/IMG_20260913_213436.png",
+        "assets/images/air/Sumber Air SumberAgung — Wonoasri/IMG_20260913_213448.png",
+        "assets/images/air/Sumber Air SumberAgung — Wonoasri/IMG_20260913_213457.png",
+        "assets/images/air/Sumber Air SumberAgung — Wonoasri/IMG_20260913_213507.png",
+        "assets/images/air/Sumber Air SumberAgung — Wonoasri/foto .png"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Sumber+Air+SumberAgung+—+Wonoa+Kediri"
+    },
+    {
+      "id": "air-21",
+      "name": "Wisata Sendang Sumber Agung Lokasi: Dusun Sumberagung, Desa ",
+      "category": "Air",
+      "location": "Dusun Sumberagung, Desa Sonorejo, Kecamatan Grogol, Kabupaten Kediri, Jawa Timur 64151",
+      "description": "Wisata Sumber Agung merupakan kawasan wisata desa yang memadukan keasrian sumber air alami, kolam renang, dan unsur religi. Di kawasan ini terdapat situs pemakaman kuno tokoh leluhur yang dikenal sebagai para pendiri Desa Sonorejo, sehingga tempat ini secara berkala kerap menjadi pusat lokasi kegiatan keagamaan serta tradisi luhur masyarakat setempat. Fakta Menarik: Kawasan Sumber Agung awalnya merupakan area rawa dan kemudian dikembangkan pemerintah desa menjadi tempat wisata. Menurut sejarah lisan setempat, area ini memiliki tiga mata air utama (Sendang Kantil, Kencono, dan Drajad) yang meru",
+      "images": [
+        "assets/images/air/Wisata Sendang Sumber Agung/Screenshot_2026-09-17-06-29-13-35.jpg",
+        "assets/images/air/Wisata Sendang Sumber Agung/Screenshot_2026-09-17-06-29-43-22.jpg"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Wisata+Sendang+Sumber+Agung+Lo+Kediri"
+    },
+    {
+      "id": "sejarah-0",
+      "name": "Situs Tunglur   Sejarah:  Situs Tunglur merupakan kompleks t",
+      "category": "Sejarah",
+      "location": "Dusun Sumberjo, RT 002 / RW 004, Desa Tunglur, Kecamatan Badas, Kabupaten Kediri, Jawa Timur. Fasili",
+      "description": "Situs Tunglur   Sejarah:  Situs Tunglur merupakan kompleks temuan arkeologi dan purbakala berupa struktur bata kuno yang tertimbun di bawah permukaan tanah di Dusun Sumberjo, Desa Tunglur, Kecamatan Badas, Kabupaten Kediri. Situs ini pertama kali ditemukan secara tidak sengaja pada bulan Desember 2014 oleh warga setempat saat sedang menggali tanah untuk menanam pohon pepaya. Berdasarkan kajian dari Balai Pelestarian Cagar Budaya (BPCB), situs ini diperkirakan merupakan peninggalan era Kerajaan K",
+      "images": [
+        "assets/images/sejarah/Situs Tunglur/IMG_1957.JPG",
+        "assets/images/sejarah/Situs Tunglur/IMG_1958.PNG",
+        "assets/images/sejarah/Situs Tunglur/IMG_1959.PNG",
+        "assets/images/sejarah/Situs Tunglur/IMG_1960.JPG",
+        "assets/images/sejarah/Situs Tunglur/IMG_1961.JPG",
+        "assets/images/sejarah/Situs Tunglur/IMG_1962.JPG",
+        "assets/images/sejarah/Situs Tunglur/IMG_1963.JPG",
+        "assets/images/sejarah/Situs Tunglur/IMG_1964.JPG"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Situs+Tunglur+++Sejarah:++Situ+Kediri"
+    },
+    {
+      "id": "sejarah-1",
+      "name": "Situs Persada Sukarno Ndalem Pojok Kediri   Lokasi:  Dusun K",
+      "category": "Sejarah",
+      "location": "Dusun Krapyak, Desa Pojok, Kecamatan Wates, Kabupaten Kediri, Jawa Timur. Sejarah Situs Ndalem Pojok",
+      "description": "Situs Persada Sukarno Ndalem Pojok Kediri   Lokasi:  Dusun Krapyak, Desa Pojok, Kecamatan Wates, Kabupaten Kediri, Jawa Timur. Sejarah Situs Ndalem Pojok merupakan rumah masa kecil Sang Proklamator Republik Indonesia, Ir. Sukarno (yang masa kecilnya akrab disapa Koesno). Rumah tradisional Jawa ini awalnya dibangun sekitar tahun 1850 oleh Raden Mas Panji Soemohatmodjo (Eyang Panji), seorang tokoh keraton pengikut Pangeran Diponegoro yang hijrah ke lereng Gunung Kelud usai Perang Jawa. Bung Karno ",
+      "images": [
+        "assets/images/sejarah/Situs Persada Sukarno Ndalem Pojok Kediri/IMG_1929.JPG",
+        "assets/images/sejarah/Situs Persada Sukarno Ndalem Pojok Kediri/IMG_1930.JPG",
+        "assets/images/sejarah/Situs Persada Sukarno Ndalem Pojok Kediri/IMG_1931.JPG",
+        "assets/images/sejarah/Situs Persada Sukarno Ndalem Pojok Kediri/IMG_1932.JPG",
+        "assets/images/sejarah/Situs Persada Sukarno Ndalem Pojok Kediri/IMG_1933.JPG",
+        "assets/images/sejarah/Situs Persada Sukarno Ndalem Pojok Kediri/IMG_1935.JPG",
+        "assets/images/sejarah/Situs Persada Sukarno Ndalem Pojok Kediri/IMG_1936.JPG",
+        "assets/images/sejarah/Situs Persada Sukarno Ndalem Pojok Kediri/IMG_1937.JPG"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Situs+Persada+Sukarno+Ndalem+P+Kediri"
+    },
+    {
+      "id": "sejarah-2",
+      "name": "Watu gajah Lokasi : Area Hutan, Desa Gadungan, Kecamatan Pun",
+      "category": "Sejarah",
+      "location": "Kabupaten Kediri",
+      "description": "Watu gajah Lokasi : Area Hutan, Desa Gadungan, Kecamatan Puncu, Kabupaten Kediri (berada di jalur menuju Pura Kertabuana di utara Kantor Desa Watu Gede). Sejarah Situs Watu Gajah merupakan peninggalan berbentuk arca batu megalitik atau klasik yang terletak di tengah kawasan hutan. Pada masa pemerintahan kolonial Belanda, situs ini didokumentasikan dalam literatur arkeologi dengan nama \"De Stenen Olifant van Paree\" (Gajah Batu dari Pare, karena Puncu saat itu masuk wilayah administratif Onderdist",
+      "images": [],
+      "maps_link": "https://www.google.com/maps/search/Watu+gajah+Lokasi+:+Area+Hutan+Kediri"
+    },
+    {
+      "id": "sejarah-3",
+      "name": "Candi Dorok  Lokasi : Dusun Dorok, Desa Manggis, Kecamatan P",
+      "category": "Sejarah",
+      "location": "Kabupaten Kediri",
+      "description": "Candi Dorok  Lokasi : Dusun Dorok, Desa Manggis, Kecamatan Puncu, Kabupaten Kediri, Jawa Timur  64292. Sejarah           Candi Dorok merupakan bangunan suci yang diperkirakan berasal dari abad ke-10 Masehi. Berdasarkan catatan sejarah penemuannya, candi ini ditemukan secara tidak sengaja pada tahun 1996 oleh seorang petani lokal yang sedang mencangkul tanah untuk menanam bibit pohon melinjo. Letusan dahsyat Gunung Kelud di masa lalu mengubur candi ini hingga kedalaman 3 meter di bawah permukaan ",
+      "images": [
+        "assets/images/sejarah/CANDI DOROK/IMG_1889.JPG",
+        "assets/images/sejarah/CANDI DOROK/IMG_1890.JPG",
+        "assets/images/sejarah/CANDI DOROK/IMG_1891.PNG",
+        "assets/images/sejarah/CANDI DOROK/IMG_1892.PNG",
+        "assets/images/sejarah/CANDI DOROK/IMG_1893.JPG",
+        "assets/images/sejarah/CANDI DOROK/IMG_1894.WEBP"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Candi+Dorok++Lokasi+:+Dusun+Do+Kediri"
+    },
+    {
+      "id": "sejarah-4",
+      "name": "Situs Petirtaan Geneng (Candi Geneng) – Desa Brumbung Lokasi",
+      "category": "Sejarah",
+      "location": "Desa Brumbung, Kecamatan Kepung, Kabupaten Kediri, Jawa Timur.   Sejarah            Situs Petirtaan ",
+      "description": "Situs Petirtaan Geneng (Candi Geneng) – Desa Brumbung Lokasi:  Desa Brumbung, Kecamatan Kepung, Kabupaten Kediri, Jawa Timur.   Sejarah            Situs Petirtaan Geneng atau yang sering disebut Candi Geneng merupakan struktur bangunan air suci peninggalan masa lalu (diperkirakan era Kadiri atau Singasari). Berdasarkan bentuknya, tempat ini dulunya berfungsi sebagai kolam pemandian suci (petirtaan) bagi para kaum rohaniawan atau bangsawan setempat untuk menyucikan diri sebelum melakukan ritual i",
+      "images": [],
+      "maps_link": "https://www.google.com/maps/search/Situs+Petirtaan+Geneng+(Candi++Kediri"
+    },
+    {
+      "id": "sejarah-5",
+      "name": "Candi Surowono   Sejarah Kampung Inggris bukanlah sebuah ban",
+      "category": "Sejarah",
+      "location": "Kabupaten Kediri",
+      "description": "Candi Surowono   Sejarah Kampung Inggris bukanlah sebuah bangunan tunggal, melainkan sebuah ekosistem pendidikan unik yang terbentuk secara organik di Desa Tulungrejo dan Pelem, Pare, sejak tahun 1977. Semuanya bermula dari inisiatif seorang perantau bernama Mr. Kalend Osen yang mendirikan lembaga kursus Basic English Course (BEC). Keberhasilan metode pembelajarannya menarik ribuan pelajar dari seluruh pelosok Indonesia. Kawasan ini kemudian berkembang menjadi \"desa pendidikan\" di mana bahasa In",
+      "images": [
+        "assets/images/sejarah/Candi Surowono/IMG_1900.JPG",
+        "assets/images/sejarah/Candi Surowono/IMG_1901.JPG",
+        "assets/images/sejarah/Candi Surowono/IMG_1902.JPG",
+        "assets/images/sejarah/Candi Surowono/IMG_1903.JPG",
+        "assets/images/sejarah/Candi Surowono/IMG_1904.JPG",
+        "assets/images/sejarah/Candi Surowono/IMG_1905.JPG",
+        "assets/images/sejarah/Candi Surowono/IMG_1906.JPG"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Candi+Surowono+++Sejarah+Kampu+Kediri"
+    },
+    {
+      "id": "sejarah-6",
+      "name": "Candi Tegowangi Lokasi:  Jl. Candi Tegowangi, Candirejo, Teg",
+      "category": "Sejarah",
+      "location": "Jl. Candi Tegowangi, Candirejo, Tegowangi, Kec. Plemahan (dekat kawasan Pare). Deskripsi & Sejarah C",
+      "description": "Candi Tegowangi Lokasi:  Jl. Candi Tegowangi, Candirejo, Tegowangi, Kec. Plemahan (dekat kawasan Pare). Deskripsi & Sejarah Candi Tegowangi adalah candi Hindu yang dibangun pada tahun 1400 Masehi, tepat di masa akhir kejayaan Majapahit. Kitab Negarakertagama mencatat bahwa candi ini didirikan sebagai tempat pendharmaan bagi Bhre Matahun. Secara arsitektural, candi ini sangat menarik karena memiliki struktur kaki yang tinggi dan relief yang relatif lebih utuh dibanding situs serupa. Keistimewaan ",
+      "images": [
+        "assets/images/sejarah/Candi Tegowangi/IMG_1900.JPG",
+        "assets/images/sejarah/Candi Tegowangi/IMG_1905.JPG",
+        "assets/images/sejarah/Candi Tegowangi/IMG_1906.JPG",
+        "assets/images/sejarah/Candi Tegowangi/IMG_1907.JPG",
+        "assets/images/sejarah/Candi Tegowangi/IMG_1908.JPG",
+        "assets/images/sejarah/Candi Tegowangi/IMG_1909.JPG",
+        "assets/images/sejarah/Candi Tegowangi/IMG_1910.JPG",
+        "assets/images/sejarah/Candi Tegowangi/IMG_1911.JPG"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Candi+Tegowangi+Lokasi:++Jl.+C+Kediri"
+    },
+    {
+      "id": "sejarah-7",
+      "name": "Situs Gentong Bioro   Lokasi:  Dusun Bioro, Desa Kandangan, ",
+      "category": "Sejarah",
+      "location": "Dusun Bioro, Desa Kandangan, Kecamatan Kandangan, Kabupaten Kediri, Jawa Timur. Sejarah Situs Genton",
+      "description": "Situs Gentong Bioro   Lokasi:  Dusun Bioro, Desa Kandangan, Kecamatan Kandangan, Kabupaten Kediri, Jawa Timur. Sejarah Situs Gentong Bioro merupakan peninggalan purbakala berbentuk wadah batu raksasa (sering disebut warga setempat sebagai \"gentong\") yang diperkirakan berasal dari masa klasik Hindu-Buddha di Nusantara. Pada masa lampau, gentong batu berukuran besar semacam ini umumnya digunakan sebagai tempat penampungan air suci (tirta), sarana ritual keagamaan, atau wadah penyimpanan logistik p",
+      "images": [
+        "assets/images/sejarah/Situs Gentong Bioro/IMG_1951.JPG",
+        "assets/images/sejarah/Situs Gentong Bioro/IMG_1952.JPG",
+        "assets/images/sejarah/Situs Gentong Bioro/IMG_1953.JPG",
+        "assets/images/sejarah/Situs Gentong Bioro/IMG_1954.JPG"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Situs+Gentong+Bioro+++Lokasi:++Kediri"
+    },
+    {
+      "id": "sejarah-8",
+      "name": "Situs Prasasti Paradah (Prasasti Siman)  Lokasi:  Desa Siman",
+      "category": "Sejarah",
+      "location": "Desa Siman, Kecamatan Kepung, Kabupaten Kediri, Jawa Timur. Sejarah Situs ini terkenal karena menyim",
+      "description": "Situs Prasasti Paradah (Prasasti Siman)  Lokasi:  Desa Siman, Kecamatan Kepung, Kabupaten Kediri, Jawa Timur. Sejarah Situs ini terkenal karena menyimpan Prasasti Paradah, sebuah prasasti batu penting yang berasal dari era Kerajaan Medang (Mataram Kuno) atau awal masa klasik Jawa Timur, yang dikeluarkan pada masa pemerintahan Raja Mpu Sindok (tahun 943 Masehi). Prasasti ini berisi penetapan Desa Siman dan daerah Paradah sebagai sima swatantra (daerah otonom yang bebas pajak) dengan imbalan kewaj",
+      "images": [],
+      "maps_link": "https://www.google.com/maps/search/Situs+Prasasti+Paradah+(Prasas+Kediri"
+    },
+    {
+      "id": "sejarah-9",
+      "name": "Gedung Teater Dan Musium Gunung Kelud   Lokasi : Kawasan Wis",
+      "category": "Sejarah",
+      "location": "Kabupaten Kediri",
+      "description": "Gedung Teater Dan Musium Gunung Kelud   Lokasi : Kawasan Wisata Gunung Kelud, Desa Sugihwaras, Kecamatan Ngancar, Kabupaten Kediri, Jawa Timur 64291. Sejarah Gedung Teater dan Museum Gunung Kelud dibangun oleh Pemerintah Kabupaten Kediri sebagai pusat edukasi, mitigasi bencana, serta sarana dokumentasi sejarah vulkanologi. Gunung Kelud dikenal sebagai salah satu gunung berapi paling aktif di Pulau Jawa yang memiliki catatan letusan besar secara berkala (seperti letusan besar tahun 1990, 2007, hi",
+      "images": [
+        "assets/images/sejarah/Gedung Teater Dan Musium Gunung Kelud/IMG_1917.JPG",
+        "assets/images/sejarah/Gedung Teater Dan Musium Gunung Kelud/IMG_1918.JPG",
+        "assets/images/sejarah/Gedung Teater Dan Musium Gunung Kelud/IMG_1919.JPG",
+        "assets/images/sejarah/Gedung Teater Dan Musium Gunung Kelud/IMG_1920.PNG",
+        "assets/images/sejarah/Gedung Teater Dan Musium Gunung Kelud/IMG_1921.PNG",
+        "assets/images/sejarah/Gedung Teater Dan Musium Gunung Kelud/IMG_1922.PNG",
+        "assets/images/sejarah/Gedung Teater Dan Musium Gunung Kelud/IMG_1923.PNG",
+        "assets/images/sejarah/Gedung Teater Dan Musium Gunung Kelud/IMG_1924.PNG"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Gedung+Teater+Dan+Musium+Gunun+Kediri"
+    },
+    {
+      "id": "alam-0",
+      "name": "Wisata view 138 kediri",
+      "category": "Alam",
+      "location": "Kabupaten Kediri",
+      "description": "",
+      "images": [
+        "assets/images/alam/Wisata view 138 kediri/Screenshot_2026-09-27-18-43-38-81.jpg",
+        "assets/images/alam/Wisata view 138 kediri/Screenshot_2026-09-27-18-43-59-86.jpg",
+        "assets/images/alam/Wisata view 138 kediri/Screenshot_2026-09-27-18-45-16-76.jpg",
+        "assets/images/alam/Wisata view 138 kediri/Screenshot_2026-09-27-18-45-31-39.jpg",
+        "assets/images/alam/Wisata view 138 kediri/Screenshot_2026-09-27-18-45-46-91.jpg",
+        "assets/images/alam/Wisata view 138 kediri/Screenshot_2026-09-27-18-46-13-12.jpg",
+        "assets/images/alam/Wisata view 138 kediri/Screenshot_2026-09-27-18-46-23-73.jpg",
+        "assets/images/alam/Wisata view 138 kediri/Screenshot_2026-09-27-18-46-32-25.jpg"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Wisata+view+138+kediri+Kediri"
+    },
+    {
+      "id": "alam-1",
+      "name": "Wisata Lembah Krepyak Lokasi: Dusun Centong, Desa Langenharj",
+      "category": "Alam",
+      "location": "Dusun Centong, Desa Langenharjo, Kecamatan Plemahan, Kabupaten Kediri, Jawa Timur.",
+      "description": "Lembah Krepyak merupakan kawasan wisata keluarga terpadu yang memadukan keindahan ruang terbuka hijau, area kuliner, serta aneka wahana permainan seru. Destinasi ini dikelola langsung secara mandiri melalui BUMDes (Badan Usaha Milik Desa) Langenharjo. Fakta Menarik: Wisata ini dibangun sejak tahun 2020 dan diresmikan pada 2021 sebagai hasil pemberdayaan ekonomi yang melibatkan seluruh warga dari 5 dusun di Desa Langenharjo. Meskipun menyajikan fasilitas dan wahana yang sangat beragam, tempat ini berkomitmen menjadi wisata ramah kantong bagi masyarakat. Fasilitas: •Wahana ATV •sirkuit MiniCross",
+      "images": [],
+      "maps_link": "https://www.google.com/maps/search/Wisata+Lembah+Krepyak+Lokasi:++Kediri"
+    },
+    {
+      "id": "event-0",
+      "name": "Pawai Budaya Desa Canggu Lokasi: Desa Canggu, Kecamatan Bada",
+      "category": "Event",
+      "location": "Desa Canggu, Kecamatan Badas, Kabupaten Kediri, Jawa Timur, 64217 Tanggal: 26 Agustus 2026 Waktu: 12",
+      "description": "Kegiatan memperingati HUT RI yang menyajikan parade teatrikal sejarah. Peserta menampilkan ornamen kreatif serta koreografi megah cerita kerajaan masa lalu demi menarik antusiasme generasi muda dalam melestarikan budaya",
+      "images": [
+        "assets/images/event/Pawai budaya desa canggu/IMG_20260917_133655.jpg",
+        "assets/images/event/Pawai budaya desa canggu/IMG_20260917_133714.jpg",
+        "assets/images/event/Pawai budaya desa canggu/Screenshot_2026-09-17-13-32-35-12.jpg"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Pawai+Budaya+Desa+Canggu+Lokas+Kediri"
+    },
+    {
+      "id": "event-1",
+      "name": "Karnaval Desa Parang 2025 Lokasi: Desa Parang, Kecamatan Ban",
+      "category": "Event",
+      "location": "Desa Parang, Kecamatan Banyakan, Kabupaten Kediri, Jawa Timur, 64144 Tanggal: 17 Agustus 2025 Waktu:",
+      "description": "Parade akbar masyarakat lereng Gunung Wilis Desa Parang dalam rangka memperingati HUT ke-80 Kemerdekaan RI. Event ini menampilkan pawai kreatifitas kostum, hiasan kendaraan lokal, serta panggung hiburan musik rakyat yang memikat antusiasme wisatawan lokal",
+      "images": [],
+      "maps_link": "https://www.google.com/maps/search/Karnaval+Desa+Parang+2025+Loka+Kediri"
+    },
+    {
+      "id": "event-2",
+      "name": "Nyadran Dusun Bloran Lokasi: Dusun Bloran, Desa Canggu, Keca",
+      "category": "Event",
+      "location": "Dusun Bloran, Desa Canggu, Kecamatan Badas, Kabupaten Kediri, Jawa Timur, 64217 Tanggal: 26 Februari",
+      "description": ": Tradisi Nyadran (bersih desa) ritual leluhur masyarakat Dusun Bloran sebagai wujud syukur atas hasil bumi dan ruang silaturahmi. Agenda sakral ini resmi masuk dalam kalender wisata unggulan daerah Kabupaten Kediri",
+      "images": [],
+      "maps_link": "https://www.google.com/maps/search/Nyadran+Dusun+Bloran+Lokasi:+D+Kediri"
+    },
+    {
+      "id": "event-3",
+      "name": "Sekoto Spectacular Carnival Lokasi: Lapangan Desa Sekoto, Ke",
+      "category": "Event",
+      "location": "Lapangan Desa Sekoto, Kecamatan Badas, Kabupaten Kediri, Jawa Timur, 64223 Tanggal: 5 September 2026",
+      "description": "Pawai budaya tahunan Desa Sekoto dalam rangka memperingati Hari Kemerdekaan RI. Event ikonik ini terkenal menyajikan parade kreativitas kostum, dekorasi kendaraan hasil bumi, hingga panggung hiburan pertunjukan musik (cek sound) di sepanjang rute Jalan Joyoboyo",
+      "images": [],
+      "maps_link": "https://www.google.com/maps/search/Sekoto+Spectacular+Carnival+Lo+Kediri"
+    },
+    {
+      "id": "event-4",
+      "name": "Karnaval Kecamatan Badas 2026 Lokasi: Rute Jalan Utama Kecam",
+      "category": "Event",
+      "location": "Rute Jalan Utama Kecamatan Badas, Kabupaten Kediri, Jawa Timur, 64221 Tanggal: 30 Agustus 2026 Waktu",
+      "description": "Puncak perayaan HUT RI ke-81 tingkat Kecamatan Badas yang menampilkan parade mobil hias, maskot raksasa, dan perwakilan pertunjukan seni dari seluruh desa di wilayah Badas untuk mempererat kerukunan masyarakat",
+      "images": [],
+      "maps_link": "https://www.google.com/maps/search/Karnaval+Kecamatan+Badas+2026++Kediri"
+    },
+    {
+      "id": "event-5",
+      "name": "Sekoto Spectacular Carnival 2026 Lokasi: Lapangan Desa Sekot",
+      "category": "Event",
+      "location": "Lapangan Desa Sekoto, Kecamatan Badas, Kabupaten Kediri, Jawa Timur, 64223 Tanggal: 5 September 2026",
+      "description": "Agenda tahunan terbesar di Desa Sekoto untuk memperingati hari kemerdekaan RI. Menghadirkan iring-iringan kostum megah, display hasil tani, hingga parade audio yang menarik ribuan penonton dari luar daerah",
+      "images": [],
+      "maps_link": "https://www.google.com/maps/search/Sekoto+Spectacular+Carnival+20+Kediri"
+    },
+    {
+      "id": "event-6",
+      "name": "Karnaval Desa Krecek 2026 Lokasi: Desa Krecek, Kecamatan Bad",
+      "category": "Event",
+      "location": "Desa Krecek, Kecamatan Badas, Kabupaten Kediri, Jawa Timur, 64221 Tanggal: 11 Agustus 2026 Waktu: 13",
+      "description": "Pawai kemerdekaan spektakuler yang memadukan kebersamaan warga desa dengan parade kreativitas kostum karnaval. Acara ini sangat populer karena diramaikan oleh pertunjukan battle sound system raksasa di sepanjang rute desa",
+      "images": [],
+      "maps_link": "https://www.google.com/maps/search/Karnaval+Desa+Krecek+2026+Loka+Kediri"
+    },
+    {
+      "id": "event-7",
+      "name": "Karnaval Dusun Ketangi Lokasi: Dusun Ketangi, Desa Bringin, ",
+      "category": "Event",
+      "location": "Dusun Ketangi, Desa Bringin, Kecamatan Badas, Kabupaten Kediri, Jawa Timur, 64224 Tanggal: 9 Agustus",
+      "description": "Parade kebudayaan unik warga Dusun Ketangi dalam rangka perayaan HUT RI sekaligus Grebeg Suro. Event ini menampilkan arak-arak tumpeng hasil bumi sebagai bentuk sodqah bumi dan pelestarian tradisi lokal",
+      "images": [],
+      "maps_link": "https://www.google.com/maps/search/Karnaval+Dusun+Ketangi+Lokasi:+Kediri"
+    },
+    {
+      "id": "event-8",
+      "name": "Festival Aisyiyah MMQ 2025 Lokasi: PMTA Muhammadiyah Markaz ",
+      "category": "Event",
+      "location": "PMTA Muhammadiyah Markaz Qur’ani, Dusun Kemendung, Desa Sekoto, Kecamatan Badas, Kabupaten Kediri, J",
+      "description": "Ajang festival keagamaan anak yang melombakan cabang hafalan Quran (tahfidz), adzan, menggambar, dan seni kaligrafi. Acara ini dikolaborasikan dengan aksi sosial bakti masyarakat dan pameran pendidikan Islam terpadu",
+      "images": [],
+      "maps_link": "https://www.google.com/maps/search/Festival+Aisyiyah+MMQ+2025+Lok+Kediri"
+    },
+    {
+      "id": "event-9",
+      "name": "Karnaval Kecamatan Badas 2025 Lokasi: Rute jalan utama Kecam",
+      "category": "Event",
+      "location": "Rute jalan utama Kecamatan Badas, Kabupaten Kediri, Jawa Timur, 64221 Tanggal: 30 Agustus 2025 Waktu",
+      "description": "Parade akbar tingkat kecamatan untuk merayakan HUT Kemerdekaan RI. Acara mengintegrasikan barisan pemuda, kesenian tradisional, dan maskot kreatif perwakilan dari seluruh desa di wilayah Kecamatan Badas untuk mempererat kebersamaan warga",
+      "images": [],
+      "maps_link": "https://www.google.com/maps/search/Karnaval+Kecamatan+Badas+2025++Kediri"
+    },
+    {
+      "id": "kuliner-0",
+      "name": "Warung Kali Etan Lokasi: Kampung Madu, Purworejo RT 05/RW 02",
+      "category": "Kuliner",
+      "location": "Kampung Madu, Purworejo RT 05/RW 02, Desa Bringin, Kecamatan Badas, Kabupaten Kediri, Jawa Timur 642",
+      "description": "Warung Kali Etan merupakan tempat kuliner di Desa Bringin yang menawarkan pengalaman makan dengan suasana pedesaan dan aliran sungai yang jernih. Pengunjung dapat menikmati makanan tradisional sambil merasakan suasana sungai dan lingkungan sekitar yang masih asri. Lokasinya berada di balik gang yang cukup sempit, sehingga tempat ini dikenal sebagai salah satu kuliner yang tersembunyi (hidden gem) di Kecamatan Badas. Area ini dikonsep berupa pujasera terbuka, di mana terdapat beberapa gerai/vendor pedagang lokal yang menyajikan variasi menu berbeda di sepanjang aliran sungai Keunikan: Warung in",
+      "images": [
+        "assets/images/kuliner/Warung kali etan/Screenshot_2026-09-16-11-54-25-24.jpg",
+        "assets/images/kuliner/Warung kali etan/Screenshot_2026-09-16-11-54-58-08.jpg",
+        "assets/images/kuliner/Warung kali etan/Screenshot_2026-09-16-11-55-15-18.jpg",
+        "assets/images/kuliner/Warung kali etan/Screenshot_2026-09-16-11-55-33-32.jpg",
+        "assets/images/kuliner/Warung kali etan/Screenshot_2026-09-16-11-55-49-77.jpg",
+        "assets/images/kuliner/Warung kali etan/Screenshot_2026-09-16-11-56-02-26.jpg",
+        "assets/images/kuliner/Warung kali etan/Screenshot_2026-09-16-11-56-25-68.jpg",
+        "assets/images/kuliner/Warung kali etan/Screenshot_2026-09-16-11-56-39-82.jpg"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Warung+Kali+Etan+Lokasi:+Kampu+Kediri"
+    },
+    {
+      "id": "kuliner-1",
+      "name": "Depot Sate Kambing “Pak No” Banyakan Lokasi: Jl. Raya Kediri",
+      "category": "Kuliner",
+      "location": "Jl. Raya Kediri–Nganjuk No. 104, Kecamatan Banyakan, Kabupaten Kediri, Jawa Timur 64157",
+      "description": "Depot Sate Kambing Pak No merupakan destinasi kuliner legendaris yang memosisikan olahan daging kambing sebagai menu andalan utamanya. Menyajikan ruang makan bernuansa warung Jawa kasual yang autentik, depot ini secara konsisten mempertahankan cita rasa tradisional yang memikat selera masyarakat luas. Keberadaannya sangat populer di kalangan pelancong seiring posisinya yang strategis, menjadikannya salah satu titik singgah makan siang dan malam yang paling direkomendasikan oleh para pemandu kuliner daerah Kediri Keunikan: Pengolahan dagingnya yang sangat empuk, bebas dari aroma prengus khas ka",
+      "images": [
+        "assets/images/kuliner/Depot sate kambing pak no banyakan/Screenshot_2026-09-16-14-23-52-57.jpg",
+        "assets/images/kuliner/Depot sate kambing pak no banyakan/Screenshot_2026-09-16-14-24-00-30.jpg",
+        "assets/images/kuliner/Depot sate kambing pak no banyakan/Screenshot_2026-09-16-14-24-10-96.jpg",
+        "assets/images/kuliner/Depot sate kambing pak no banyakan/Screenshot_2026-09-16-14-24-21-15.jpg",
+        "assets/images/kuliner/Depot sate kambing pak no banyakan/Screenshot_2026-09-16-14-24-33-36.jpg",
+        "assets/images/kuliner/Depot sate kambing pak no banyakan/Screenshot_2026-09-16-14-25-12-51.jpg",
+        "assets/images/kuliner/Depot sate kambing pak no banyakan/Screenshot_2026-09-16-14-25-42-47.jpg",
+        "assets/images/kuliner/Depot sate kambing pak no banyakan/Screenshot_2026-09-16-14-26-10-15.jpg"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Depot+Sate+Kambing+“Pak+No”+Ba+Kediri"
+    },
+    {
+      "id": "kuliner-2",
+      "name": "Depot Soto Cahaya Maron Lokasi: Jalan Raya, Nglaban, Maron, ",
+      "category": "Kuliner",
+      "location": "Jalan Raya, Nglaban, Maron, Kecamatan Banyakan, Kabupaten Kediri, Jawa Timur 64157",
+      "description": "Depot Soto Cahaya Maron merupakan tempat kuliner legendaris yang menyajikan aneka hidangan tradisional khas Jawa Timur dengan cita rasa otentik yang konsisten. Mengusung konsep rumah makan keluarga yang sederhana namun berkapasitas besar, depot ini memadukan kecepatan pelayanan dengan kehangatan masakan rumahan. Keberadaannya menjadi salah satu titik singgah kuliner paling populer dan ramai di wilayah perbatasan, terbukti dari tingginya volume ulasan positif dari pelanggan lokal maupun penglaju antar-kota Keunikan: Depot ini berhasil mengombinasikan kuah soto kuning bening yang segar dengan bu",
+      "images": [
+        "assets/images/kuliner/Depot soto cahaya maron/Screenshot_2026-09-16-14-10-22-05.jpg",
+        "assets/images/kuliner/Depot soto cahaya maron/Screenshot_2026-09-16-14-10-37-92.jpg"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Depot+Soto+Cahaya+Maron+Lokasi+Kediri"
+    },
+    {
+      "id": "kuliner-3",
+      "name": "Keripik Pisang Kediri DH Rasa Lokasi: Jl. Banaran RT 002/RW ",
+      "category": "Kuliner",
+      "location": "Jl. Banaran RT 002/RW 009, Dusun Banaran, Desa Tunglur, Kecamatan Badas, Kabupaten Kediri, Jawa Timu",
+      "description": "Keripik Pisang Kediri DH Rasa merupakan usaha pengolahan makanan ringan rumahan (home industry) yang memproduksi jajanan renyah khas di Desa Tunglur. Menggunakan bahan baku pisang lokal pilihan, seluruh proses pemotongan hingga pembumbuan produk camilan ini diproduksi secara higienis menggunakan metode kerajinan tangan (handmade) oleh masyarakat setempat. Kehadiran toko oleh-oleh ini menjadi salah satu pilar penggerak ekonomi kreatif berbasis usaha mikro di wilayah perbatasan Badas, serta menjadi tujuan berburu buah tangan kemasan yang praktis dan tahan lama Keunikan: Irisan pisangnya dipotong",
+      "images": [],
+      "maps_link": "https://www.google.com/maps/search/Keripik+Pisang+Kediri+DH+Rasa++Kediri"
+    },
+    {
+      "id": "kuliner-4",
+      "name": "Warung Kuning Nasi Pecel Tumpang Lokasi: Jl. Raya Banyakan, ",
+      "category": "Kuliner",
+      "location": "Jl. Raya Banyakan, Banyakan, Maron, Kecamatan Banyakan, Kabupaten Kediri, Jawa Timur 64157",
+      "description": "Warung Kuning Nasi Pecel Tumpang merupakan destinasi kuliner merakyat yang menyajikan perpaduan hidangan sarapan dan makan malam khas mataraman dengan cita rasa otentik. Kedai sederhana ini mengedepankan konsep warung makan tradisional yang menyajikan kuliner ikonik berbasis sayuran segar berlumur bumbu rempah tradisional. Menjadi andalan bagi pemburu kuliner lokal maupun komuter, warung ini secara konsisten menghidupkan tradisi kuliner bumbu tumpuk yang lezat dengan menyajikan kelezatan bersahaja dari fusi saus kacang dan kuah fermentasi yang gurih Keunikan: Ciri khas kuah sambal tumpangnya d",
+      "images": [
+        "assets/images/kuliner/Warung kuning nasi kuning pecel/Screenshot_2026-09-16-14-37-25-60.jpg",
+        "assets/images/kuliner/Warung kuning nasi kuning pecel/Screenshot_2026-09-16-14-37-36-92.jpg",
+        "assets/images/kuliner/Warung kuning nasi kuning pecel/Screenshot_2026-09-16-14-38-30-56.jpg",
+        "assets/images/kuliner/Warung kuning nasi kuning pecel/Screenshot_2026-09-16-14-39-10-12.jpg",
+        "assets/images/kuliner/Warung kuning nasi kuning pecel/Screenshot_2026-09-16-14-40-43-14.jpg",
+        "assets/images/kuliner/Warung kuning nasi kuning pecel/Screenshot_2026-09-16-14-40-54-96.jpg",
+        "assets/images/kuliner/Warung kuning nasi kuning pecel/Screenshot_2026-09-16-14-41-06-72.jpg",
+        "assets/images/kuliner/Warung kuning nasi kuning pecel/Screenshot_2026-09-16-14-41-19-36.jpg"
+      ],
+      "maps_link": "https://www.google.com/maps/search/Warung+Kuning+Nasi+Pecel+Tumpa+Kediri"
+    }
+  ]
+}

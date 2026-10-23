@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pariwisata Kabupaten Kediri - Pesona Wisata Kabupaten Kediri</title>
+  <meta name="description" content="Portal wisata Kabupaten Kediri. Jelajahi destinasi religi, sumber mata air, sejarah, alam, event, dan kuliner khas Kediri." />
+  <meta name="keywords" content="pariwisata Kabupaten Kediri, wisata Kabupaten Kediri, wisata religi Kabupaten Kediri, sumber mata air Kabupaten Kediri, candi Kabupaten Kediri" />
+
+  <!-- AOS Animation -->
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
+  <!-- Leaflet JS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>K</text></svg>" />
+</head>
+<body>
+
+  <!-- Skip link for keyboard users -->
+  <a href="#main-content" class="skip-link">Langsung ke konten utama</a>
+
+  <!-- ============ NAVBAR ============ -->
+  <nav class="navbar" id="navbar" aria-label="Navigasi utama">
+    <div class="container nav-container">
+      <a href="#main-content" class="nav-logo">
+        <i class="fas fa-map-marked-alt" aria-hidden="true"></i>
+        <span>Pariwisata Kab. Kediri</span>
+      </a>
+      <ul class="nav-menu" id="navMenu" role="menubar">
+        <li role="none"><a href="#destinasi" role="menuitem">Destinasi</a></li>
+        <li role="none"><a href="#kategori" role="menuitem">Kategori</a></li>
+        <li role="none"><a href="#peta" role="menuitem">Peta</a></li>
+        <li role="none"><a href="#kontak" role="menuitem">Kontak</a></li>
+      </ul>
+      <div class="nav-right">
+        <button class="nav-toggle" id="navToggle" aria-label="Buka menu navigasi" aria-expanded="false">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </div>
+  </nav>
+
+  <!-- ============ HERO ============ -->
+  <section class="hero" id="main-content">
+    <div class="hero-content" data-aos="fade-up">
+      <h1 class="hero-title">Pesona Kabupaten Kediri</h1>
+      <p class="hero-subtitle">Temukan destinasi wisata religi, sumber mata air, situs sejarah, alam, event, dan kuliner khas dari Kabupaten Kediri.</p>
+      <a href="#destinasi" class="hero-cta">
+        <i class="fas fa-compass" aria-hidden="true"></i> Jelajahi Destinasi
+      </a>
+    </div>
+  </section>
+
+  <!-- ============ KATEGORI ============ -->
+  <section class="section" id="kategori" aria-label="Kategori wisata">
+    <div class="container">
+      <h2 class="section-title" data-aos="fade-up">Kategori Wisata</h2>
+      <p class="section-subtitle" data-aos="fade-up" data-aos-delay="50">Pilih kategori untuk menyaring destinasi wisata</p>
+      <div class="kategori-grid" id="kategoriGrid" role="tablist" aria-label="Filter kategori">
+        <!-- Rendered by JS -->
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ SPOTLIGHT: SUMBER MATA AIR ============ -->
+  <section class="section spotlight-air" id="spotlight-air" aria-label="Sorotan Sumber Mata Air Kabupaten Kediri">
+    <div class="container">
+      <div class="spotlight-air-wrapper" data-aos="fade-up">
+        <div class="spotlight-air-icon">
+          <i class="fas fa-water" aria-hidden="true"></i>
+        </div>
+        <span class="spotlight-air-label">Sorotan</span>
+        <h2 class="spotlight-air-title">155 Sumber Mata Air di Kabupaten Kediri</h2>
+        <p class="spotlight-air-subtitle">Terbanyak di Jawa Timur</p>
+        <div class="spotlight-air-body">
+          <p>Kabupaten Kediri memiliki <strong>155 sumber mata air alami</strong> yang tersebar di berbagai kecamatan. Jumlah ini menjadikan Kabupaten Kediri sebagai daerah dengan sumber mata air terbanyak di Jawa Timur.</p>
+          <p class="spotlight-air-geo"><strong>Mengapa Kabupaten Kediri?</strong> Posisi geografis Kediri yang berada di antara Gunung Kelud (gunung api aktif) dan Gunung Wilis (pegunungan non-aktif) menciptakan sistem akuifer raksasa. Air hujan meresap melalui batuan vulkanik Kelud, mengalir di bawah tanah, dan muncul sebagai mata air di lereng serta lembah Wilis. Inilah mengapa sumber mata air Kabupaten Kediri begitu melimpah dan tersebar merata.</p>
+        </div>
+        <div class="spotlight-air-stats">
+          <div class="stat-item">
+            <span class="stat-number">155</span>
+            <span class="stat-label">Total Sumber Air</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-number">22</span>
+            <span class="stat-label">Terdokumentasi</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-number">2</span>
+            <span class="stat-label">Gunung (Kelud-Wilis)</span>
+          </div>
+        </div>
+        <button class="btn btn-spotlight" data-filter-air>
+          <i class="fas fa-compass" aria-hidden="true"></i> Jelajahi Sumber Mata Air
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ DESTINASI ============ -->
+  <section class="section section-alt" id="destinasi" aria-label="Daftar destinasi wisata">
+    <div class="container">
+      <h2 class="section-title" data-aos="fade-up">Destinasi Wisata</h2>
+      <p class="section-subtitle" data-aos="fade-up" data-aos-delay="50">Semua destinasi wisata di Kabupaten Kediri</p>
+
+      <div class="destinasi-filter-bar" id="filterBar" role="tablist" aria-label="Filter destinasi">
+        <button class="filter-btn active" data-filter="all" role="tab" aria-selected="true">Semua</button>
+        <button class="filter-btn" data-filter="religi" role="tab" aria-selected="false">Religi</button>
+        <button class="filter-btn" data-filter="air" role="tab" aria-selected="false">Air</button>
+        <button class="filter-btn" data-filter="sejarah" role="tab" aria-selected="false">Sejarah</button>
+        <button class="filter-btn" data-filter="alam" role="tab" aria-selected="false">Alam</button>
+        <button class="filter-btn" data-filter="event" role="tab" aria-selected="false">Event</button>
+        <button class="filter-btn" data-filter="kuliner" role="tab" aria-selected="false">Kuliner</button>
+      </div>
+
+      <div id="loadingState" class="loading-state" role="status">
+        <i class="fas fa-spinner fa-pulse" aria-hidden="true"></i>
+        <p>Memuat data destinasi...</p>
+      </div>
+
+      <div id="emptyState" class="empty-state" style="display:none;" role="status">
+        <i class="fas fa-search" aria-hidden="true"></i>
+        <h3>Tidak ada destinasi ditemukan</h3>
+        <p>Coba pilih kategori lain atau reset filter.</p>
+      </div>
+
+      <div class="destinasi-grid" id="destinasiGrid">
+        <!-- Rendered by JS -->
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ PETA ============ -->
+  <section class="section" id="peta" aria-label="Peta interaktif">
+    <div class="container">
+      <h2 class="section-title" data-aos="fade-up">Peta Destinasi</h2>
+      <p class="section-subtitle" data-aos="fade-up" data-aos-delay="50">Lokasi destinasi wisata di Kabupaten Kediri</p>
+
+      <div class="map-wrapper" data-aos="fade-up" data-aos-delay="100">
+        <div id="map" role="application" aria-label="Peta interaktif destinasi wisata Kabupaten Kediri"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ FOOTER ============ -->
+  <footer class="footer" id="kontak">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <h3>Pariwisata Kab. Kediri</h3>
+          <p>Portal informasi wisata Kabupaten Kediri. Data dikumpulkan oleh siswa MAN 5 Kediri sebagai bagian dari project pengabdian masyarakat.</p>
+        </div>
+        <div class="footer-contact">
+          <p><i class="fas fa-school" aria-hidden="true"></i> MAN 5 Kediri</p>
+          <p><i class="fas fa-map-marker-alt" aria-hidden="true"></i> Jl. Raya Baye, Baye, Kec. Gurah, Kabupaten Kediri, Jawa Timur 64181</p>
+          <p><i class="fas fa-phone" aria-hidden="true"></i> (0354) 1234567</p>
+          <p><i class="fas fa-envelope" aria-hidden="true"></i> <a href="mailto:man5kediri@kemenag.go.id">man5kediri@kemenag.go.id</a></p>
+        </div>
+        <div class="footer-social">
+          <a href="https://www.instagram.com/man5kediri" target="_blank" rel="noopener noreferrer" aria-label="Instagram MAN 5 Kediri"><i class="fab fa-instagram" aria-hidden="true"></i></a>
+          <a href="https://www.youtube.com/@man5kediri" target="_blank" rel="noopener noreferrer" aria-label="YouTube MAN 5 Kediri"><i class="fab fa-youtube" aria-hidden="true"></i></a>
+          <a href="https://www.facebook.com/man5kediri" target="_blank" rel="noopener noreferrer" aria-label="Facebook MAN 5 Kediri"><i class="fab fa-facebook" aria-hidden="true"></i></a>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2026 Pariwisata Kab. Kediri. Data oleh siswa MAN 5 Kediri.</p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- ============ WELCOME POPUP (once) ============ -->
+  <div class="welcome-overlay" id="welcomeOverlay" role="dialog" aria-modal="true" aria-labelledby="welcomeTitle">
+    <div class="welcome-modal" id="welcomeModal">
+      <button class="welcome-close" id="welcomeClose" aria-label="Tutup">
+        <i class="fas fa-times" aria-hidden="true"></i>
+      </button>
+      <div class="welcome-icon">
+        <i class="fas fa-water" aria-hidden="true"></i>
+      </div>
+      <h2 id="welcomeTitle">Selamat Datang di Portal Wisata Kab. Kediri</h2>
+      <p class="welcome-desc">Jelajahi <strong>63 destinasi wisata</strong> di Kabupaten Kediri yang dikelompokkan dalam 6 kategori. Temukan kekayaan <strong>155 sumber mata air</strong>, situs sejarah, wisata religi, kuliner khas, event budaya, dan keindahan alam Kab. Kediri.</p>
+      <div class="welcome-highlight">
+        <i class="fas fa-mountain" aria-hidden="true"></i>
+        <span>Tahukah Anda? Kabupaten Kediri memiliki sumber mata air terbanyak se-Jawa Timur berkat posisinya di antara Gunung Kelud dan Gunung Wilis.</span>
+      </div>
+      <button class="btn btn-primary welcome-start" id="welcomeStart">
+        Mulai Jelajahi
+      </button>
+    </div>
+  </div>
+
+  <!-- Modal -->
+  <div class="modal-overlay" id="modalOverlay" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <div class="modal" id="modalContent">
+      <button class="modal-close" id="modalClose" aria-label="Tutup detail"><i class="fas fa-times" aria-hidden="true"></i></button>
+      <img class="modal-img" id="modalImg" src="" alt="" />
+      <span class="modal-badge" id="modalBadge"></span>
+      <h2 id="modalTitle"></h2>
+      <p class="modal-location"><i class="fas fa-map-marker-alt" aria-hidden="true"></i> <span id="modalLocation"></span></p>
+      <p class="modal-desc" id="modalDesc"></p>
+      <a class="modal-maps" id="modalMaps" href="#" target="_blank" rel="noopener noreferrer">
+        <i class="fas fa-external-link-alt" aria-hidden="true"></i> Buka di Google Maps
+      </a>
+    </div>
+  </div>
+
+  <!-- ============ SCRIPTS ============ -->
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>
